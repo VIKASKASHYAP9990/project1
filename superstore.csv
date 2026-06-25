@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Order Date,Product,Category,Sub-Category,Region,State,Sales,Profit
+CA-2026-231932,CUST-25795,2026-01-31,Watercolor Brushes,Office Supplies,Art,Central,Wisconsin,12.63,2.53
+CA-2023-164820,CUST-77221,2023-05-11,Picture Frame Set,Furniture,Furnishings,East,Pennsylvania,55.17,12.79
+CA-2023-284779,CUST-93104,2023-10-04,Standing Desk Birch,Furniture,Tables,West,California,91.06,-12.05
+CA-2024-165725,CUST-69150,2024-11-30,Industrial Metal Bookshelf,Furniture,Bookcases,South,Virginia,185.51,19.77
+CA-2025-431236,CUST-21394,2025-04-11,Manila Envelopes Pack,Office Supplies,Envelopes,South,Georgia,138.82,5.81
+CA-2023-672843,CUST-33483,2023-04-02,3D Printer Ender 3,Technology,Machines,South,Florida,124.78,20.9
+CA-2025-308261,CUST-76557,2025-10-22,Coffee Table Pine,Furniture,Tables,East,Maryland,878.2,78.47
+CA-2025-587879,CUST-21534,2025-03-26,Billy Bookcase White,Furniture,Bookcases,East,Maryland,128.03,26.72
+CA-2023-633556,CUST-92798,2023-12-04,IKEA Markus,Furniture,Chairs,West,Arizona,85.74,-8.73
+CA-2024-233767,CUST-72592,2024-06-04,Acrylic Paint Set,Office Supplies,Art,Central,Michigan,75.27,4.34
+CA-2024-234633,CUST-48660,2024-01-14,3-Ring Binder 2-inch,Office Supplies,Binders,West,California,48.93,3.12
+CA-2024-747972,CUST-87373,2024-02-11,Coffee Maker Espresso,Office Supplies,Appliances,East,Ohio,42.07,4.9
+CA-2024-572525,CUST-18110,2024-09-04,Premium Copy Paper A4,Office Supplies,Paper,East,Ohio,38.29,3.0
+CA-2025-210687,CUST-64268,2025-05-13,Autonomous ErgoChair,Furniture,Chairs,South,Tennessee,199.05,7.77
+CA-2024-424767,CUST-43827,2024-06-24,Acrylic Paint Set,Office Supplies,Art,East,Massachusetts,124.47,29.91
+CA-2024-125939,CUST-79163,2024-10-07,Dining Table Oak,Furniture,Tables,West,Washington,37.55,9.71
+CA-2026-785440,CUST-33776,2026-06-08,HP LaserJet Pro Copier,Technology,Copiers,Central,Indiana,178.9,11.33
+CA-2024-328576,CUST-13748,2024-10-10,Presentation Folder Pack,Office Supplies,Binders,South,Florida,28.28,1.66
+CA-2024-314283,CUST-72003,2024-03-17,Industrial Metal Bookshelf,Furniture,Bookcases,South,Florida,45.07,1.73
+CA-2025-369536,CUST-48623,2025-05-04,HP LaserJet Pro Copier,Technology,Copiers,East,Maryland,273.91,77.27
+CA-2023-283734,CUST-80467,2023-09-04,Crayola Colored Pencils,Office Supplies,Art,South,Tennessee,50.02,12.79
+CA-2025-518400,CUST-32671,2025-01-21,3D Printer Ender 3,Technology,Machines,East,Maryland,786.78,393.39
+CA-2025-212547,CUST-66250,2025-02-02,Presentation Folder Pack,Office Supplies,Binders,South,North Carolina,24.29,5.51
+CA-2025-757162,CUST-47504,2025-05-21,Samsung Galaxy S24,Technology,Phones,South,Georgia,124.33,-27.92
+CA-2023-570587,CUST-26371,2023-05-24,Logitech MX Master 3S,Technology,Accessories,West,Arizona,331.84,64.23
+CA-2026-639439,CUST-52642,2026-06-10,Coffee Maker Espresso,Office Supplies,Appliances,East,New York,51.23,9.35
+CA-2024-891971,CUST-42711,2024-08-09,Picture Frame Set,Furniture,Furnishings,East,Ohio,121.42,-15.47
+CA-2025-412252,CUST-71135,2025-04-01,Epson EcoTank Pro,Technology,Machines,West,California,277.4,6.41
+CA-2025-158871,CUST-13987,2025-03-26,Crayola Colored Pencils,Office Supplies,Art,West,California,40.19,20.1
+CA-2025-216381,CUST-16893,2025-11-11,Standing Desk Birch,Furniture,Tables,South,North Carolina,147.46,11.27
+CA-2025-469599,CUST-49790,2025-03-08,OnePlus 12,Technology,Phones,Central,Michigan,344.46,75.06
+CA-2025-929957,CUST-46212,2025-12-05,Compact Refrigerator,Office Supplies,Appliances,Central,Wisconsin,30.15,5.56
+CA-2023-748307,CUST-76235,2023-06-30,Manila Envelopes Pack,Office Supplies,Envelopes,West,California,22.15,4.18
+CA-2024-465890,CUST-76105,2024-07-19,Floor Rug Geometric,Furniture,Furnishings,West,Washington,78.31,-13.64
+CA-2024-297392,CUST-55017,2024-05-04,Google Pixel 8,Technology,Phones,East,Maryland,145.68,-8.63
+CA-2024-319963,CUST-18716,2024-02-12,Billy Bookcase White,Furniture,Bookcases,West,Oregon,59.0,-2.47
+CA-2024-584299,CUST-80031,2024-05-26,Microwave Oven 900W,Office Supplies,Appliances,East,Ohio,33.2,-5.71
+CA-2023-131024,CUST-66661,2023-11-10,Dining Table Oak,Furniture,Tables,East,Ohio,38.97,4.45
+CA-2025-351451,CUST-90135,2025-09-19,HP LaserJet Pro Copier,Technology,Copiers,Central,Indiana,216.97,17.84
+CA-2024-970045,CUST-27019,2024-10-17,Notebook Spiral,Office Supplies,Paper,South,North Carolina,31.01,7.01
+CA-2025-108308,CUST-42217,2025-01-10,Solid Wood Bookcase,Furniture,Bookcases,Central,Indiana,136.46,-1.39
+CA-2025-763165,CUST-56175,2025-03-12,Desk Lamp LED,Furniture,Furnishings,West,Oregon,87.1,-0.63
+CA-2026-653663,CUST-63222,2026-04-27,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Michigan,17.81,6.73
+CA-2024-109435,CUST-71389,2024-11-27,Canon ImageCLASS,Technology,Copiers,East,Massachusetts,82.11,7.6
+CA-2025-221172,CUST-45247,2025-06-30,Compact Refrigerator,Office Supplies,Appliances,East,Maryland,27.88,11.93
+CA-2025-820777,CUST-50158,2025-03-12,Industrial Metal Bookshelf,Furniture,Bookcases,West,California,198.79,57.29
+CA-2024-151991,CUST-37663,2024-05-30,3-Ring Binder 2-inch,Office Supplies,Binders,West,Colorado,77.64,22.11
+CA-2025-604999,CUST-48304,2025-08-14,Billy Bookcase White,Furniture,Bookcases,Central,Indiana,31.56,11.85
+CA-2024-717296,CUST-37350,2024-05-13,Desk Lamp LED,Furniture,Furnishings,East,Pennsylvania,10.89,-0.61
+CA-2026-976020,CUST-92745,2026-05-04,Autonomous ErgoChair,Furniture,Chairs,Central,Indiana,140.3,28.47
+CA-2025-663044,CUST-54425,2025-10-17,3D Printer Ender 3,Technology,Machines,Central,Michigan,217.83,98.02
+CA-2024-525695,CUST-17357,2024-10-24,Epson EcoTank Pro,Technology,Machines,South,Tennessee,543.69,61.72
+CA-2025-286141,CUST-31352,2025-05-16,Samsung Galaxy S24,Technology,Phones,West,California,159.29,28.18
+CA-2024-566152,CUST-73932,2024-01-31,Compact Refrigerator,Office Supplies,Appliances,South,Virginia,139.86,42.48
+CA-2025-105486,CUST-70921,2025-04-30,Google Pixel 8,Technology,Phones,West,California,327.71,51.89
+CA-2025-897606,CUST-31689,2025-12-01,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Michigan,551.65,52.34
+CA-2023-631089,CUST-99930,2023-08-23,Compact Refrigerator,Office Supplies,Appliances,East,Pennsylvania,48.33,3.48
+CA-2025-905497,CUST-98858,2025-08-03,Herman Miller Aeron,Furniture,Chairs,Central,Michigan,222.65,19.3
+CA-2024-792440,CUST-67854,2024-05-14,Cricut Maker 3,Technology,Machines,West,Colorado,605.5,-88.81
+CA-2023-930914,CUST-25485,2023-02-08,Samsung Galaxy S24,Technology,Phones,West,Washington,545.33,272.67
+CA-2024-256542,CUST-23116,2024-03-31,Canon ImageCLASS,Technology,Copiers,South,Tennessee,113.46,13.74
+CA-2025-989765,CUST-92848,2025-04-03,Keychron K2 Keyboard,Technology,Accessories,West,Oregon,1406.01,-313.05
+CA-2025-586261,CUST-30559,2025-03-25,Canon ImageCLASS,Technology,Copiers,West,Colorado,480.52,45.01
+CA-2024-255576,CUST-51430,2024-10-17,Microwave Oven 900W,Office Supplies,Appliances,West,Arizona,10.08,-0.24
+CA-2024-109337,CUST-39703,2024-01-08,Floor Rug Geometric,Furniture,Furnishings,West,Washington,82.29,-15.52
+CA-2024-965184,CUST-48088,2024-05-16,Epson EcoTank Pro,Technology,Machines,West,Oregon,62.17,5.05
+CA-2024-680466,CUST-15713,2024-01-25,Canon ImageCLASS,Technology,Copiers,East,Pennsylvania,1084.61,224.24
+CA-2025-867214,CUST-18415,2025-12-24,Canon ImageCLASS,Technology,Copiers,East,New York,1406.48,237.98
+CA-2025-932972,CUST-96704,2025-03-05,Logitech MX Master 3S,Technology,Accessories,South,Florida,10.51,2.73
+CA-2024-335365,CUST-19860,2024-12-09,Bubble Mailers padded,Office Supplies,Envelopes,Central,Wisconsin,135.33,8.5
+CA-2023-606964,CUST-23456,2023-03-24,Steelcase Gesture,Furniture,Chairs,Central,Michigan,85.3,9.38
+CA-2024-605950,CUST-46187,2024-05-02,Heavy Duty Binder,Office Supplies,Binders,East,Ohio,38.04,3.94
+CA-2023-740053,CUST-52944,2023-09-25,Keychron K2 Keyboard,Technology,Accessories,South,Florida,361.6,-90.25
+CA-2026-964141,CUST-49764,2026-06-06,Solid Wood Bookcase,Furniture,Bookcases,South,Virginia,988.86,-67.16
+CA-2023-762301,CUST-83553,2023-04-08,Acrylic Paint Set,Office Supplies,Art,South,Georgia,24.26,10.2
+CA-2025-170390,CUST-80173,2025-10-16,Billy Bookcase White,Furniture,Bookcases,Central,Wisconsin,44.77,2.84
+CA-2023-842729,CUST-95392,2023-07-03,Epson EcoTank Pro,Technology,Machines,East,Maryland,175.72,50.54
+CA-2023-779574,CUST-27144,2023-04-21,Sketchbook Medium,Office Supplies,Art,West,Arizona,14.03,-1.36
+CA-2023-463714,CUST-93807,2023-10-08,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Texas,16.4,0.97
+CA-2024-385205,CUST-46668,2024-11-12,Logitech MX Master 3S,Technology,Accessories,Central,Illinois,181.02,73.88
+CA-2025-470608,CUST-61745,2025-12-05,Standing Desk Birch,Furniture,Tables,South,Florida,29.21,11.79
+CA-2025-480975,CUST-65645,2025-12-15,Samsung Galaxy S24,Technology,Phones,West,California,40.32,7.44
+CA-2024-575774,CUST-10302,2024-12-19,Conference Table Mahogany,Furniture,Tables,West,Washington,349.06,53.68
+CA-2025-662926,CUST-65658,2025-01-19,Keychron K2 Keyboard,Technology,Accessories,East,Ohio,207.44,57.26
+CA-2026-531734,CUST-83688,2026-04-30,Cricut Maker 3,Technology,Machines,South,Florida,739.81,172.78
+CA-2024-471923,CUST-13596,2024-06-20,Cricut Maker 3,Technology,Machines,South,Florida,281.01,17.56
+CA-2023-126069,CUST-16371,2023-04-21,Billy Bookcase White,Furniture,Bookcases,West,Colorado,124.01,22.08
+CA-2023-212581,CUST-27260,2023-11-11,iPhone 15 Pro,Technology,Phones,Central,Wisconsin,71.36,11.98
+CA-2024-287210,CUST-37139,2024-09-15,Conference Table Mahogany,Furniture,Tables,South,Florida,25.91,-10.38
+CA-2024-640677,CUST-19111,2024-07-01,Picture Frame Set,Furniture,Furnishings,South,Virginia,6.33,1.1
+CA-2023-899666,CUST-94471,2023-04-28,Steelcase Gesture,Furniture,Chairs,South,North Carolina,216.93,47.28
+CA-2023-928533,CUST-40105,2023-11-22,Compact Refrigerator,Office Supplies,Appliances,West,California,38.96,0.5
+CA-2023-341983,CUST-88477,2023-01-01,Steelcase Gesture,Furniture,Chairs,South,Virginia,101.65,-26.56
+CA-2023-712246,CUST-92180,2023-01-10,Floor Rug Geometric,Furniture,Furnishings,Central,Texas,27.99,7.66
+CA-2023-872042,CUST-29216,2023-11-25,Rubber Bands Premium,Office Supplies,Fasteners,South,Florida,90.59,4.46
+CA-2024-820801,CUST-80792,2024-01-11,Crayola Colored Pencils,Office Supplies,Art,West,Arizona,87.98,37.03
+CA-2025-451005,CUST-68596,2025-05-22,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Michigan,54.24,-13.42
+CA-2025-618545,CUST-94056,2025-12-01,Push Pins Colorful,Office Supplies,Fasteners,South,Tennessee,21.14,4.54
+CA-2025-502400,CUST-28574,2025-11-12,iPhone 15 Pro,Technology,Phones,South,Georgia,318.71,83.63
+CA-2023-323810,CUST-64917,2023-07-17,Watercolor Brushes,Office Supplies,Art,East,Massachusetts,76.1,21.97
+CA-2024-756282,CUST-19446,2024-04-22,Logitech MX Master 3S,Technology,Accessories,Central,Wisconsin,119.27,58.65
+CA-2025-548396,CUST-56197,2025-05-14,Compact Refrigerator,Office Supplies,Appliances,West,Arizona,27.78,6.18
+CA-2026-164772,CUST-30103,2026-03-26,Canon ImageCLASS,Technology,Copiers,East,Ohio,414.94,122.17
+CA-2023-964266,CUST-81315,2023-03-10,Coffee Table Pine,Furniture,Tables,East,Pennsylvania,740.71,287.26
+CA-2024-306988,CUST-85993,2024-01-31,Standing Desk Birch,Furniture,Tables,Central,Indiana,229.71,61.31
+CA-2025-598716,CUST-96066,2025-10-10,Desk Lamp LED,Furniture,Furnishings,East,Ohio,154.84,26.48
+CA-2025-232717,CUST-32116,2025-03-24,Billy Bookcase White,Furniture,Bookcases,Central,Michigan,228.68,-12.77
+CA-2026-611411,CUST-67545,2026-03-06,Samsung Galaxy S24,Technology,Phones,Central,Michigan,208.11,40.79
+CA-2024-763937,CUST-83509,2024-06-20,Presentation Folder Pack,Office Supplies,Binders,East,Ohio,32.08,3.31
+CA-2026-906388,CUST-77526,2026-04-17,iPhone 15 Pro,Technology,Phones,South,North Carolina,405.16,-20.49
+CA-2023-990324,CUST-26241,2023-06-05,Canon ImageCLASS,Technology,Copiers,West,California,69.38,5.28
+CA-2024-830880,CUST-30806,2024-07-14,Anker USB-C Hub,Technology,Accessories,South,North Carolina,648.34,123.43
+CA-2023-159676,CUST-12717,2023-02-01,iPhone 15 Pro,Technology,Phones,East,Ohio,32.19,5.6
+CA-2023-481915,CUST-16645,2023-07-13,Keychron K2 Keyboard,Technology,Accessories,East,Ohio,72.48,35.57
+CA-2025-402950,CUST-22342,2025-07-13,Heavy Duty Binder,Office Supplies,Binders,South,Georgia,28.65,9.12
+CA-2025-605815,CUST-86534,2025-04-12,Acrylic Paint Set,Office Supplies,Art,Central,Illinois,77.41,29.33
+CA-2024-779520,CUST-49986,2024-08-01,Presentation Folder Pack,Office Supplies,Binders,West,Colorado,152.93,-23.67
+CA-2023-354726,CUST-14425,2023-01-07,Canon ImageCLASS,Technology,Copiers,South,Tennessee,841.42,48.72
+CA-2024-360910,CUST-18705,2024-11-30,3D Printer Ender 3,Technology,Machines,East,Pennsylvania,185.43,80.35
+CA-2025-238155,CUST-72516,2025-06-23,Microwave Oven 900W,Office Supplies,Appliances,East,Massachusetts,11.79,0.35
+CA-2024-643351,CUST-58285,2024-12-14,Rubber Bands Premium,Office Supplies,Fasteners,West,California,34.84,15.9
+CA-2023-123752,CUST-70774,2023-08-25,Dining Table Oak,Furniture,Tables,East,Massachusetts,40.47,2.66
+CA-2023-356609,CUST-86908,2023-01-29,Bubble Mailers padded,Office Supplies,Envelopes,East,Pennsylvania,38.94,5.78
+CA-2023-328504,CUST-49952,2023-02-03,Coffee Table Pine,Furniture,Tables,South,Tennessee,7.76,2.29
+CA-2023-575781,CUST-91182,2023-01-27,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Wisconsin,13.68,1.66
+CA-2024-490719,CUST-46397,2024-12-02,Floor Rug Geometric,Furniture,Furnishings,South,Florida,26.61,5.19
+CA-2025-681780,CUST-63276,2025-03-04,Watercolor Brushes,Office Supplies,Art,West,California,62.53,15.47
+CA-2023-366997,CUST-33150,2023-02-24,IKEA Markus,Furniture,Chairs,Central,Texas,12.92,0.96
+CA-2026-771210,CUST-77298,2026-03-17,Anker USB-C Hub,Technology,Accessories,Central,Michigan,167.73,26.27
+CA-2024-793264,CUST-45111,2024-12-13,iPhone 15 Pro,Technology,Phones,South,Georgia,251.24,66.24
+CA-2023-527236,CUST-38145,2023-05-11,Binder Clips Assorted,Office Supplies,Fasteners,East,Massachusetts,25.15,-2.2
+CA-2023-302503,CUST-10338,2023-08-04,Manila Envelopes Pack,Office Supplies,Envelopes,South,Tennessee,58.03,6.34
+CA-2024-771256,CUST-80855,2024-12-10,IKEA Markus,Furniture,Chairs,South,North Carolina,1103.89,140.56
+CA-2025-980889,CUST-29541,2025-09-07,Rubber Bands Premium,Office Supplies,Fasteners,Central,Illinois,14.63,2.74
+CA-2025-922494,CUST-16737,2025-04-06,Wall Clock Modern,Furniture,Furnishings,South,Georgia,189.76,55.53
+CA-2026-982875,CUST-45435,2026-03-21,Anker USB-C Hub,Technology,Accessories,Central,Michigan,171.13,77.61
+CA-2023-833547,CUST-33510,2023-07-02,Notebook Spiral,Office Supplies,Paper,Central,Illinois,65.25,-21.3
+CA-2026-210017,CUST-90765,2026-02-05,Sketchbook Medium,Office Supplies,Art,East,Ohio,98.47,27.7
+CA-2026-955778,CUST-58543,2026-03-10,Push Pins Colorful,Office Supplies,Fasteners,Central,Illinois,28.13,14.06
+CA-2026-989097,CUST-20616,2026-06-16,Autonomous ErgoChair,Furniture,Chairs,South,Virginia,339.45,-5.2
+CA-2023-649239,CUST-43933,2023-01-03,Coffee Table Pine,Furniture,Tables,East,Maryland,15.75,-4.69
+CA-2025-691652,CUST-53001,2025-08-21,Google Pixel 8,Technology,Phones,West,Colorado,941.21,2.51
+CA-2023-910694,CUST-58280,2023-08-14,Compact Refrigerator,Office Supplies,Appliances,South,Tennessee,84.91,6.38
+CA-2024-245271,CUST-65554,2024-05-20,Herman Miller Aeron,Furniture,Chairs,East,New York,187.59,5.87
+CA-2025-654736,CUST-28297,2025-11-09,HP LaserJet Pro Copier,Technology,Copiers,South,Georgia,275.27,137.64
+CA-2025-946936,CUST-85758,2025-06-11,Cricut Maker 3,Technology,Machines,Central,Texas,249.58,24.99
+CA-2025-143642,CUST-33874,2025-08-09,Google Pixel 8,Technology,Phones,Central,Texas,797.57,253.49
+CA-2025-125559,CUST-91121,2025-08-12,Push Pins Colorful,Office Supplies,Fasteners,South,Tennessee,7.25,2.5
+CA-2025-758380,CUST-19903,2025-07-02,iPhone 15 Pro,Technology,Phones,East,Maryland,267.02,116.69
+CA-2025-433863,CUST-40561,2025-11-29,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Michigan,96.18,20.37
+CA-2023-576840,CUST-75082,2023-04-02,Canon ImageCLASS,Technology,Copiers,Central,Wisconsin,460.95,216.09
+CA-2023-148874,CUST-73620,2023-01-07,Logitech MX Master 3S,Technology,Accessories,South,Georgia,60.19,20.27
+CA-2023-529725,CUST-87236,2023-12-29,Heavy Duty Binder,Office Supplies,Binders,East,Maryland,36.87,6.8
+CA-2023-268383,CUST-41966,2023-01-17,HP LaserJet Pro Copier,Technology,Copiers,South,Georgia,231.42,52.85
+CA-2025-363579,CUST-71246,2025-09-20,Paper Clips Jumbo,Office Supplies,Fasteners,Central,Indiana,13.59,3.24
+CA-2024-895509,CUST-83609,2024-02-05,Keychron K2 Keyboard,Technology,Accessories,West,Colorado,770.34,85.75
+CA-2024-776555,CUST-34860,2024-12-04,Watercolor Brushes,Office Supplies,Art,Central,Indiana,6.12,2.64
+CA-2024-111745,CUST-54569,2024-07-23,Standing Desk Birch,Furniture,Tables,West,California,31.95,1.22
+CA-2023-666134,CUST-78878,2023-02-08,Google Pixel 8,Technology,Phones,West,Washington,597.81,79.4
+CA-2025-868747,CUST-54413,2025-04-28,Google Pixel 8,Technology,Phones,West,Oregon,412.03,64.35
+CA-2024-803650,CUST-29982,2024-07-23,OnePlus 12,Technology,Phones,West,Washington,804.1,250.07
+CA-2024-529660,CUST-15776,2024-03-05,3D Printer Ender 3,Technology,Machines,South,Georgia,577.56,124.06
+CA-2024-707167,CUST-71788,2024-01-22,Cricut Maker 3,Technology,Machines,South,Virginia,641.91,22.13
+CA-2026-658819,CUST-61027,2026-06-13,Apple Pencil,Technology,Accessories,Central,Indiana,31.55,6.66
+CA-2025-856097,CUST-59268,2025-10-10,Manila Envelopes Pack,Office Supplies,Envelopes,West,Oregon,8.38,0.57
+CA-2024-106154,CUST-36143,2024-08-29,iPhone 15 Pro,Technology,Phones,West,California,21.17,-4.58
+CA-2023-932599,CUST-79298,2023-08-02,OnePlus 12,Technology,Phones,Central,Indiana,489.89,88.29
+CA-2023-998792,CUST-16368,2023-01-02,Logitech MX Master 3S,Technology,Accessories,Central,Indiana,182.14,40.95
+CA-2026-778758,CUST-91061,2026-01-31,Conference Table Mahogany,Furniture,Tables,East,Pennsylvania,15.51,1.76
+CA-2023-495141,CUST-59786,2023-11-13,Logitech MX Master 3S,Technology,Accessories,South,Florida,498.86,121.67
+CA-2026-947982,CUST-23629,2026-01-12,Watercolor Brushes,Office Supplies,Art,West,Arizona,45.95,6.06
+CA-2026-877915,CUST-31288,2026-02-24,Dining Table Oak,Furniture,Tables,East,Massachusetts,75.96,24.29
+CA-2025-965580,CUST-11560,2025-06-27,Presentation Folder Pack,Office Supplies,Binders,South,Virginia,66.37,7.73
+CA-2023-906481,CUST-99899,2023-10-15,Dining Table Oak,Furniture,Tables,East,Maryland,1407.16,334.48
+CA-2025-441705,CUST-70315,2025-05-22,Crayola Colored Pencils,Office Supplies,Art,Central,Illinois,87.59,30.97
+CA-2025-912395,CUST-88339,2025-03-15,Picture Frame Set,Furniture,Furnishings,West,Washington,509.41,0.28
+CA-2024-696387,CUST-75128,2024-08-30,Steelcase Gesture,Furniture,Chairs,West,Arizona,521.73,9.87
+CA-2025-800601,CUST-27778,2025-01-24,IKEA Markus,Furniture,Chairs,South,Tennessee,161.75,33.82
+CA-2023-943488,CUST-94878,2023-01-21,Heavy Duty Binder,Office Supplies,Binders,South,Georgia,17.2,2.5
+CA-2023-720347,CUST-60677,2023-11-14,HP LaserJet Pro Copier,Technology,Copiers,West,California,439.62,189.52
+CA-2025-847512,CUST-71272,2025-04-17,Billy Bookcase White,Furniture,Bookcases,Central,Illinois,376.22,-86.55
+CA-2024-438511,CUST-92189,2024-09-21,Steelcase Gesture,Furniture,Chairs,West,California,145.92,0.14
+CA-2025-471000,CUST-98576,2025-08-29,Picture Frame Set,Furniture,Furnishings,Central,Michigan,338.33,-2.67
+CA-2023-560494,CUST-93310,2023-06-05,Wall Clock Modern,Furniture,Furnishings,Central,Indiana,83.59,35.43
+CA-2025-846788,CUST-57614,2025-08-26,Herman Miller Aeron,Furniture,Chairs,South,North Carolina,155.46,2.46
+CA-2025-396141,CUST-74178,2025-10-05,Desk Lamp LED,Furniture,Furnishings,East,Ohio,6.24,0.82
+CA-2023-947644,CUST-99393,2023-08-05,Brother Monochrome Copier,Technology,Copiers,West,Colorado,273.43,17.28
+CA-2024-490479,CUST-42556,2024-01-19,Coffee Table Pine,Furniture,Tables,South,Georgia,57.17,7.01
+CA-2025-730111,CUST-33196,2025-10-11,Autonomous ErgoChair,Furniture,Chairs,East,Pennsylvania,275.91,11.23
+CA-2023-836400,CUST-38625,2023-04-24,Wall Clock Modern,Furniture,Furnishings,West,California,12.71,1.09
+CA-2023-201376,CUST-64061,2023-12-11,Paper Clips Jumbo,Office Supplies,Fasteners,West,Oregon,43.74,-1.23
+CA-2024-828744,CUST-15704,2024-12-04,Epson EcoTank Pro,Technology,Machines,Central,Wisconsin,339.82,47.85
+CA-2024-519139,CUST-49882,2024-05-03,Steelcase Gesture,Furniture,Chairs,East,Massachusetts,280.35,44.16
+CA-2025-117772,CUST-35426,2025-09-27,Notebook Spiral,Office Supplies,Paper,East,New York,22.91,6.33
+CA-2025-858470,CUST-37723,2025-12-24,Bubble Mailers padded,Office Supplies,Envelopes,West,Oregon,31.8,1.11
+CA-2023-734122,CUST-73449,2023-04-12,Binder Clips Assorted,Office Supplies,Fasteners,East,Pennsylvania,33.02,-2.91
+CA-2025-325049,CUST-32612,2025-10-23,Coffee Table Pine,Furniture,Tables,Central,Wisconsin,109.35,-21.88
+CA-2025-671107,CUST-21563,2025-09-01,Watercolor Brushes,Office Supplies,Art,South,Georgia,61.56,-9.0
+CA-2024-648884,CUST-68348,2024-03-02,Acrylic Paint Set,Office Supplies,Art,West,Oregon,107.74,18.18
+CA-2023-870188,CUST-88612,2023-11-20,Industrial Metal Bookshelf,Furniture,Bookcases,East,Maryland,245.16,9.5
+CA-2024-798012,CUST-46378,2024-01-08,Air Purifier HEPA,Office Supplies,Appliances,West,Washington,47.41,-1.33
+CA-2024-854950,CUST-96365,2024-10-05,Microwave Oven 900W,Office Supplies,Appliances,South,Tennessee,14.18,4.53
+CA-2025-934800,CUST-28743,2025-08-16,Steelcase Gesture,Furniture,Chairs,West,Arizona,143.14,19.45
+CA-2024-712492,CUST-86666,2024-07-12,Binder Clips Assorted,Office Supplies,Fasteners,Central,Indiana,16.65,-4.33
+CA-2024-700441,CUST-91929,2024-06-04,Samsung Galaxy S24,Technology,Phones,West,California,113.13,10.26
+CA-2024-762587,CUST-46451,2024-06-14,3-Ring Binder 2-inch,Office Supplies,Binders,East,Ohio,49.0,15.24
+CA-2025-650448,CUST-74174,2025-09-19,Microwave Oven 900W,Office Supplies,Appliances,Central,Wisconsin,9.53,1.5
+CA-2025-385855,CUST-50390,2025-09-14,3-Ring Binder 2-inch,Office Supplies,Binders,East,Maryland,45.62,5.64
+CA-2025-998850,CUST-27727,2025-07-09,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,South,Georgia,30.15,9.82
+CA-2025-544717,CUST-39371,2025-09-25,Microwave Oven 900W,Office Supplies,Appliances,East,Pennsylvania,111.17,38.77
+CA-2024-112323,CUST-64253,2024-09-12,OnePlus 12,Technology,Phones,South,Florida,161.25,16.63
+CA-2024-426459,CUST-82240,2024-12-08,Desk Lamp LED,Furniture,Furnishings,West,Colorado,260.53,-44.37
+CA-2025-265575,CUST-66549,2025-02-14,Industrial Metal Bookshelf,Furniture,Bookcases,West,Oregon,157.6,-34.66
+CA-2023-605629,CUST-19686,2023-12-20,Floor Rug Geometric,Furniture,Furnishings,West,Oregon,53.18,-10.07
+CA-2023-125592,CUST-78910,2023-10-14,Heavy Duty Binder,Office Supplies,Binders,East,New York,82.62,12.1
+CA-2023-727035,CUST-82982,2023-08-25,Paper Clips Jumbo,Office Supplies,Fasteners,West,Arizona,17.57,3.85
+CA-2023-317029,CUST-23395,2023-10-13,Coffee Table Pine,Furniture,Tables,South,Florida,239.43,-41.39
+CA-2024-743552,CUST-26163,2024-05-23,3-Ring Binder 2-inch,Office Supplies,Binders,East,New York,9.13,1.41
+CA-2025-548330,CUST-94416,2025-01-30,Microwave Oven 900W,Office Supplies,Appliances,South,Georgia,46.3,13.91
+CA-2023-826331,CUST-14437,2023-05-23,Cricut Maker 3,Technology,Machines,West,California,54.49,12.29
+CA-2024-134594,CUST-97468,2024-08-16,Floor Rug Geometric,Furniture,Furnishings,East,Ohio,395.2,-16.31
+CA-2024-644897,CUST-66154,2024-07-31,Heavy Duty Binder,Office Supplies,Binders,West,Washington,51.1,5.49
+CA-2025-950741,CUST-73740,2025-03-03,3D Printer Ender 3,Technology,Machines,East,New York,377.82,38.89
+CA-2025-123429,CUST-45298,2025-06-17,iPhone 15 Pro,Technology,Phones,East,Maryland,15.46,4.88
+CA-2024-664396,CUST-41822,2024-06-20,HP LaserJet Pro Copier,Technology,Copiers,West,Washington,135.16,30.93
+CA-2024-402066,CUST-82146,2024-10-24,HP LaserJet Pro Copier,Technology,Copiers,East,New York,28.97,5.17
+CA-2024-585278,CUST-56332,2024-11-20,Sticky Notes Neon,Office Supplies,Paper,South,Florida,11.9,1.0
+CA-2025-197359,CUST-16406,2025-06-01,3D Printer Ender 3,Technology,Machines,West,California,110.92,10.29
+CA-2025-600531,CUST-78828,2025-03-30,Industrial Metal Bookshelf,Furniture,Bookcases,South,Tennessee,549.22,-107.67
+CA-2024-914037,CUST-36715,2024-06-02,Billy Bookcase White,Furniture,Bookcases,Central,Wisconsin,7.77,0.07
+CA-2024-714106,CUST-73037,2024-01-21,Keychron K2 Keyboard,Technology,Accessories,South,Tennessee,576.33,138.08
+CA-2023-778100,CUST-70428,2023-03-06,Standing Desk Birch,Furniture,Tables,Central,Wisconsin,409.29,-61.95
+CA-2023-362307,CUST-10671,2023-06-22,Canon ImageCLASS,Technology,Copiers,West,Colorado,247.33,1.3
+CA-2024-907655,CUST-43361,2024-09-15,Premium Copy Paper A4,Office Supplies,Paper,West,Oregon,32.68,4.67
+CA-2023-479504,CUST-74041,2023-01-21,Epson EcoTank Pro,Technology,Machines,West,California,1149.7,320.23
+CA-2023-844149,CUST-38602,2023-08-20,Canon ImageCLASS,Technology,Copiers,West,Oregon,70.09,13.32
+CA-2025-777974,CUST-73936,2025-07-28,Epson EcoTank Pro,Technology,Machines,West,California,553.49,230.67
+CA-2024-970020,CUST-86816,2024-10-25,Cricut Maker 3,Technology,Machines,South,Virginia,177.13,57.31
+CA-2024-551122,CUST-74027,2024-02-03,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Texas,5.95,1.96
+CA-2025-545377,CUST-45144,2025-07-09,Presentation Folder Pack,Office Supplies,Binders,Central,Indiana,47.95,0.66
+CA-2023-223257,CUST-88040,2023-06-18,Rubber Bands Premium,Office Supplies,Fasteners,East,Pennsylvania,77.14,31.78
+CA-2023-109503,CUST-79519,2023-12-17,Industrial Metal Bookshelf,Furniture,Bookcases,South,Florida,663.06,247.9
+CA-2023-515384,CUST-55000,2023-07-02,Push Pins Colorful,Office Supplies,Fasteners,East,New York,13.04,2.7
+CA-2026-985421,CUST-74946,2026-04-10,Epson EcoTank Pro,Technology,Machines,South,Georgia,682.01,129.62
+CA-2023-661931,CUST-86272,2023-02-08,HP LaserJet Pro Copier,Technology,Copiers,Central,Wisconsin,104.93,-1.35
+CA-2023-158005,CUST-67941,2023-07-22,Cardstock Heavyweight,Office Supplies,Paper,West,Oregon,63.58,12.22
+CA-2025-743534,CUST-74028,2025-02-08,Presentation Folder Pack,Office Supplies,Binders,South,North Carolina,12.35,-0.31
+CA-2024-166912,CUST-77260,2024-02-25,Rubber Bands Premium,Office Supplies,Fasteners,South,Tennessee,9.43,-1.59
+CA-2023-680735,CUST-19496,2023-04-18,HP LaserJet Pro Copier,Technology,Copiers,East,New York,546.47,85.27
+CA-2026-758441,CUST-78056,2026-06-01,Cricut Maker 3,Technology,Machines,South,North Carolina,88.31,29.13
+CA-2025-531116,CUST-77695,2025-07-25,Cricut Maker 3,Technology,Machines,East,Pennsylvania,737.94,272.2
+CA-2025-986514,CUST-46751,2025-11-09,Push Pins Colorful,Office Supplies,Fasteners,South,Tennessee,10.99,3.23
+CA-2026-999607,CUST-28313,2026-03-01,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Wisconsin,5.47,-0.11
+CA-2025-389910,CUST-25379,2025-07-29,Compact Refrigerator,Office Supplies,Appliances,East,Ohio,8.02,0.61
+CA-2023-981718,CUST-33225,2023-12-02,Floor Rug Geometric,Furniture,Furnishings,East,Pennsylvania,235.42,-30.28
+CA-2024-424683,CUST-52092,2024-10-25,Conference Table Mahogany,Furniture,Tables,Central,Indiana,187.07,22.35
+CA-2024-367613,CUST-91580,2024-03-07,Sticky Notes Neon,Office Supplies,Paper,Central,Texas,25.89,7.49
+CA-2026-702272,CUST-85564,2026-02-15,Apple Pencil,Technology,Accessories,West,Colorado,468.23,177.36
+CA-2023-507688,CUST-67418,2023-03-19,Desk Lamp LED,Furniture,Furnishings,Central,Indiana,117.45,8.85
+CA-2024-183369,CUST-33284,2024-07-16,Binder Clips Assorted,Office Supplies,Fasteners,South,Tennessee,88.01,-14.81
+CA-2023-352164,CUST-35279,2023-02-18,Coffee Table Pine,Furniture,Tables,East,Pennsylvania,605.3,0.39
+CA-2025-574013,CUST-55603,2025-09-11,Conference Table Mahogany,Furniture,Tables,West,Colorado,85.61,-11.12
+CA-2023-586799,CUST-27015,2023-09-27,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Wisconsin,83.04,6.75
+CA-2024-905113,CUST-50785,2024-08-18,Premium Copy Paper A4,Office Supplies,Paper,West,Washington,28.83,3.45
+CA-2025-215359,CUST-24289,2025-12-29,Coffee Maker Espresso,Office Supplies,Appliances,South,Tennessee,7.42,-0.97
+CA-2023-351924,CUST-28745,2023-06-14,Autonomous ErgoChair,Furniture,Chairs,South,Georgia,58.05,-2.63
+CA-2023-550930,CUST-28322,2023-11-01,OnePlus 12,Technology,Phones,West,California,85.85,6.17
+CA-2024-888768,CUST-29446,2024-08-20,Epson EcoTank Pro,Technology,Machines,Central,Texas,211.99,40.37
+CA-2023-942150,CUST-56760,2023-02-12,Herman Miller Aeron,Furniture,Chairs,East,Pennsylvania,170.75,21.96
+CA-2023-720399,CUST-86943,2023-04-08,Bubble Mailers padded,Office Supplies,Envelopes,East,Massachusetts,7.89,2.47
+CA-2024-248066,CUST-58777,2024-07-24,Notebook Spiral,Office Supplies,Paper,West,Oregon,13.1,4.7
+CA-2023-303127,CUST-15774,2023-08-02,HP LaserJet Pro Copier,Technology,Copiers,West,Arizona,123.01,10.05
+CA-2025-642777,CUST-16823,2025-09-27,Autonomous ErgoChair,Furniture,Chairs,East,New York,29.72,-5.38
+CA-2025-121253,CUST-28658,2025-10-08,Air Purifier HEPA,Office Supplies,Appliances,Central,Michigan,26.54,-0.42
+CA-2024-958379,CUST-12551,2024-12-09,Picture Frame Set,Furniture,Furnishings,West,Arizona,359.17,-43.03
+CA-2025-271918,CUST-31038,2025-06-23,Floor Rug Geometric,Furniture,Furnishings,East,Massachusetts,302.6,-46.09
+CA-2024-924143,CUST-94742,2024-01-21,Bubble Mailers padded,Office Supplies,Envelopes,South,Georgia,13.32,6.66
+CA-2025-820391,CUST-99087,2025-10-11,3D Printer Ender 3,Technology,Machines,Central,Indiana,645.97,163.37
+CA-2024-495807,CUST-15906,2024-01-01,3D Printer Ender 3,Technology,Machines,East,New York,221.35,6.37
+CA-2026-650458,CUST-77065,2026-01-30,Crayola Colored Pencils,Office Supplies,Art,Central,Michigan,38.73,8.8
+CA-2025-361501,CUST-34217,2025-07-18,Autonomous ErgoChair,Furniture,Chairs,Central,Indiana,493.29,39.62
+CA-2023-222232,CUST-91835,2023-07-30,Presentation Folder Pack,Office Supplies,Binders,West,Arizona,21.96,8.5
+CA-2026-633634,CUST-56037,2026-06-03,Coffee Table Pine,Furniture,Tables,Central,Indiana,442.14,3.09
+CA-2024-827346,CUST-55096,2024-06-29,Heavy Duty Binder,Office Supplies,Binders,South,Florida,30.73,2.58
+CA-2025-237488,CUST-91557,2025-06-14,3D Printer Ender 3,Technology,Machines,East,Ohio,407.2,116.88
+CA-2025-305735,CUST-47346,2025-12-25,Paper Clips Jumbo,Office Supplies,Fasteners,West,Arizona,220.85,1.72
+CA-2025-352419,CUST-85330,2025-05-04,Autonomous ErgoChair,Furniture,Chairs,East,Maryland,13.44,3.16
+CA-2024-940230,CUST-33952,2024-04-04,Canon ImageCLASS,Technology,Copiers,South,Georgia,425.81,-7.25
+CA-2024-909178,CUST-82954,2024-10-07,Acrylic Paint Set,Office Supplies,Art,East,Massachusetts,26.63,2.85
+CA-2024-346183,CUST-18472,2024-08-18,Conference Table Mahogany,Furniture,Tables,South,Florida,91.4,-12.11
+CA-2025-339017,CUST-94866,2025-08-04,Notebook Spiral,Office Supplies,Paper,West,Oregon,153.13,-2.81
+CA-2024-938574,CUST-88610,2024-09-24,Floor Rug Geometric,Furniture,Furnishings,Central,Wisconsin,22.7,5.57
+CA-2024-946143,CUST-59437,2024-04-09,Epson EcoTank Pro,Technology,Machines,East,Ohio,35.86,12.7
+CA-2023-263834,CUST-81363,2023-02-10,Herman Miller Aeron,Furniture,Chairs,East,New York,1133.11,-124.04
+CA-2024-135292,CUST-33567,2024-11-25,IKEA Markus,Furniture,Chairs,East,Massachusetts,223.55,-18.35
+CA-2025-500584,CUST-77580,2025-10-09,OnePlus 12,Technology,Phones,South,Florida,31.75,7.19
+CA-2024-591862,CUST-99388,2024-04-24,Microwave Oven 900W,Office Supplies,Appliances,West,California,23.75,2.07
+CA-2024-863429,CUST-99906,2024-06-16,Google Pixel 8,Technology,Phones,West,Arizona,49.03,7.65
+CA-2023-635381,CUST-18770,2023-03-17,Floor Rug Geometric,Furniture,Furnishings,South,Florida,181.44,-11.26
+CA-2024-391077,CUST-96795,2024-07-26,Solid Wood Bookcase,Furniture,Bookcases,West,Washington,894.75,76.08
+CA-2023-561552,CUST-52604,2023-04-03,Rubber Bands Premium,Office Supplies,Fasteners,West,Oregon,33.94,10.97
+CA-2023-875024,CUST-27709,2023-02-18,Wall Clock Modern,Furniture,Furnishings,West,Arizona,88.84,42.24
+CA-2023-216656,CUST-13828,2023-12-07,Dining Table Oak,Furniture,Tables,East,New York,131.47,11.62
+CA-2025-135634,CUST-69156,2025-05-05,Sticky Notes Neon,Office Supplies,Paper,Central,Michigan,7.07,0.1
+CA-2025-414925,CUST-93276,2025-06-25,OnePlus 12,Technology,Phones,West,Colorado,216.75,58.11
+CA-2024-515648,CUST-78847,2024-03-20,Anker USB-C Hub,Technology,Accessories,West,Washington,516.18,160.83
+CA-2026-747341,CUST-88682,2026-03-22,Paper Clips Jumbo,Office Supplies,Fasteners,South,Florida,46.66,1.05
+CA-2025-880926,CUST-13744,2025-09-16,Autonomous ErgoChair,Furniture,Chairs,South,Virginia,204.4,22.83
+CA-2026-537625,CUST-26715,2026-02-10,Sticky Notes Neon,Office Supplies,Paper,East,Maryland,56.09,20.29
+CA-2025-956626,CUST-88033,2025-06-28,Herman Miller Aeron,Furniture,Chairs,South,Virginia,52.14,-13.67
+CA-2024-162068,CUST-70058,2024-03-29,Steelcase Gesture,Furniture,Chairs,South,Georgia,7.94,-2.03
+CA-2025-961396,CUST-48244,2025-09-12,Autonomous ErgoChair,Furniture,Chairs,South,Florida,331.57,-21.95
+CA-2023-248586,CUST-89285,2023-10-04,Wall Clock Modern,Furniture,Furnishings,Central,Illinois,96.43,0.21
+CA-2023-807755,CUST-89003,2023-07-14,Sticky Notes Neon,Office Supplies,Paper,South,North Carolina,44.27,18.06
+CA-2026-752667,CUST-93555,2026-02-15,3D Printer Ender 3,Technology,Machines,East,Massachusetts,230.22,10.68
+CA-2026-117297,CUST-50379,2026-05-10,Acrylic Paint Set,Office Supplies,Art,South,North Carolina,28.72,2.08
+CA-2025-609733,CUST-21120,2025-03-27,Cricut Maker 3,Technology,Machines,West,Arizona,352.21,18.01
+CA-2025-928791,CUST-17069,2025-04-16,Acrylic Paint Set,Office Supplies,Art,Central,Indiana,9.71,1.7
+CA-2023-476794,CUST-82127,2023-12-29,Industrial Metal Bookshelf,Furniture,Bookcases,East,Ohio,44.77,-6.59
+CA-2023-253124,CUST-94092,2023-05-02,Desk Lamp LED,Furniture,Furnishings,South,Virginia,1322.58,57.56
+CA-2023-387516,CUST-28800,2023-07-20,Brother Monochrome Copier,Technology,Copiers,East,Massachusetts,17.57,3.81
+CA-2024-886261,CUST-18556,2024-11-04,Brother Monochrome Copier,Technology,Copiers,South,North Carolina,149.01,43.44
+CA-2026-825753,CUST-66882,2026-02-06,Samsung Galaxy S24,Technology,Phones,South,Virginia,112.17,28.13
+CA-2024-158478,CUST-47772,2024-04-27,Solid Wood Bookcase,Furniture,Bookcases,Central,Illinois,336.61,93.19
+CA-2023-277912,CUST-84965,2023-04-14,Billy Bookcase White,Furniture,Bookcases,South,Tennessee,45.04,5.94
+CA-2023-912853,CUST-11140,2023-03-05,HP LaserJet Pro Copier,Technology,Copiers,Central,Michigan,323.8,115.58
+CA-2025-670387,CUST-11207,2025-09-03,Keychron K2 Keyboard,Technology,Accessories,West,California,1196.25,67.37
+CA-2025-565918,CUST-88405,2025-03-30,Heavy Duty Binder,Office Supplies,Binders,South,Florida,42.22,6.55
+CA-2024-282170,CUST-30878,2024-02-11,Sticky Notes Neon,Office Supplies,Paper,East,New York,95.3,13.35
+CA-2025-808770,CUST-51862,2025-02-10,Notebook Spiral,Office Supplies,Paper,West,Oregon,31.02,6.25
+CA-2025-202239,CUST-25072,2025-05-30,Rubber Bands Premium,Office Supplies,Fasteners,South,Tennessee,37.14,9.96
+CA-2024-349877,CUST-37103,2024-12-20,Anker USB-C Hub,Technology,Accessories,South,Georgia,62.75,16.0
+CA-2023-413295,CUST-10276,2023-05-06,IKEA Markus,Furniture,Chairs,South,Florida,399.24,106.86
+CA-2025-142727,CUST-96156,2025-06-29,Epson EcoTank Pro,Technology,Machines,South,Florida,753.12,-29.46
+CA-2023-849078,CUST-25038,2023-07-13,Keychron K2 Keyboard,Technology,Accessories,East,Massachusetts,214.1,39.74
+CA-2025-685676,CUST-42955,2025-06-28,Cricut Maker 3,Technology,Machines,Central,Wisconsin,47.56,5.77
+CA-2023-563937,CUST-32031,2023-12-24,HP LaserJet Pro Copier,Technology,Copiers,East,Massachusetts,496.15,-34.41
+CA-2024-248694,CUST-78487,2024-05-22,Floor Rug Geometric,Furniture,Furnishings,South,North Carolina,10.57,-0.92
+CA-2026-954336,CUST-38454,2026-06-08,Samsung Galaxy S24,Technology,Phones,Central,Wisconsin,375.02,174.35
+CA-2024-378710,CUST-40750,2024-12-26,Binder Clips Assorted,Office Supplies,Fasteners,East,Massachusetts,49.11,-4.2
+CA-2024-767505,CUST-10159,2024-10-21,Coffee Table Pine,Furniture,Tables,East,Massachusetts,95.31,13.75
+CA-2023-957558,CUST-66378,2023-09-17,Wall Clock Modern,Furniture,Furnishings,South,Georgia,40.92,-10.76
+CA-2023-670442,CUST-58766,2023-12-20,Epson EcoTank Pro,Technology,Machines,South,Florida,5.05,0.54
+CA-2026-913349,CUST-54757,2026-01-24,HP LaserJet Pro Copier,Technology,Copiers,West,California,171.43,38.19
+CA-2025-564028,CUST-65103,2025-07-28,Premium Copy Paper A4,Office Supplies,Paper,South,North Carolina,42.46,7.96
+CA-2025-191218,CUST-53148,2025-06-29,Apple Pencil,Technology,Accessories,West,Arizona,454.74,186.8
+CA-2024-338038,CUST-42441,2024-02-05,Herman Miller Aeron,Furniture,Chairs,West,Colorado,469.87,-47.75
+CA-2023-916228,CUST-25372,2023-08-23,3D Printer Ender 3,Technology,Machines,Central,Indiana,489.99,144.0
+CA-2024-467570,CUST-26211,2024-06-16,Compact Refrigerator,Office Supplies,Appliances,East,New York,25.09,3.77
+CA-2023-940552,CUST-15355,2023-08-15,Premium Copy Paper A4,Office Supplies,Paper,East,Maryland,82.71,21.36
+CA-2023-443567,CUST-90769,2023-01-31,Samsung Galaxy S24,Technology,Phones,South,Florida,641.33,218.77
+CA-2023-948923,CUST-33554,2023-10-01,Picture Frame Set,Furniture,Furnishings,Central,Indiana,317.25,6.47
+CA-2025-685236,CUST-84083,2025-12-24,Crayola Colored Pencils,Office Supplies,Art,Central,Illinois,10.32,-1.69
+CA-2023-914604,CUST-71997,2023-02-22,Apple Pencil,Technology,Accessories,East,New York,58.12,14.03
+CA-2026-910904,CUST-92594,2026-03-07,Paper Clips Jumbo,Office Supplies,Fasteners,West,Arizona,5.45,1.35
+CA-2026-323461,CUST-25193,2026-04-26,3D Printer Ender 3,Technology,Machines,West,California,299.67,63.68
+CA-2024-366010,CUST-65243,2024-11-28,Steelcase Gesture,Furniture,Chairs,South,Florida,37.02,8.39
+CA-2024-161240,CUST-61955,2024-06-02,Picture Frame Set,Furniture,Furnishings,West,Colorado,276.92,-23.15
+CA-2025-549763,CUST-62870,2025-08-30,Crayola Colored Pencils,Office Supplies,Art,West,Colorado,84.68,-10.96
+CA-2025-878883,CUST-72522,2025-12-04,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Texas,46.6,13.61
+CA-2026-727835,CUST-43870,2026-05-13,Microwave Oven 900W,Office Supplies,Appliances,West,Washington,213.18,39.18
+CA-2025-357354,CUST-88257,2025-09-06,Microwave Oven 900W,Office Supplies,Appliances,Central,Illinois,16.49,-2.26
+CA-2026-526009,CUST-87240,2026-05-07,Anker USB-C Hub,Technology,Accessories,Central,Michigan,68.58,21.24
+CA-2025-349243,CUST-17006,2025-10-03,Crayola Colored Pencils,Office Supplies,Art,Central,Indiana,23.52,8.35
+CA-2024-350541,CUST-90360,2024-07-12,Standing Desk Birch,Furniture,Tables,East,Maryland,176.95,-44.95
+CA-2023-595164,CUST-94703,2023-01-15,Steelcase Gesture,Furniture,Chairs,Central,Texas,202.89,-16.13
+CA-2023-537470,CUST-77468,2023-10-29,Industrial Metal Bookshelf,Furniture,Bookcases,East,Maryland,169.12,17.64
+CA-2023-208042,CUST-57153,2023-11-27,Coffee Maker Espresso,Office Supplies,Appliances,East,New York,14.87,4.07
+CA-2024-901881,CUST-83402,2024-07-13,IKEA Markus,Furniture,Chairs,South,Tennessee,148.62,-11.74
+CA-2025-228389,CUST-40873,2025-06-04,Bubble Mailers padded,Office Supplies,Envelopes,Central,Texas,58.93,10.51
+CA-2023-155745,CUST-78431,2023-09-02,Billy Bookcase White,Furniture,Bookcases,East,Massachusetts,76.04,22.86
+CA-2023-599797,CUST-97893,2023-07-06,Samsung Galaxy S24,Technology,Phones,West,Oregon,194.27,83.84
+CA-2026-381854,CUST-46777,2026-03-25,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,West,Washington,37.53,1.53
+CA-2026-445740,CUST-95867,2026-03-24,Apple Pencil,Technology,Accessories,Central,Michigan,1244.08,444.06
+CA-2023-207096,CUST-95663,2023-05-09,Canon ImageCLASS,Technology,Copiers,South,Virginia,43.04,-3.74
+CA-2025-145740,CUST-63521,2025-11-06,Epson EcoTank Pro,Technology,Machines,South,Georgia,432.58,62.27
+CA-2023-901849,CUST-73232,2023-04-24,IKEA Markus,Furniture,Chairs,West,Washington,462.86,-43.84
+CA-2026-405505,CUST-97440,2026-05-01,iPhone 15 Pro,Technology,Phones,West,Oregon,512.99,181.75
+CA-2025-149812,CUST-56002,2025-04-03,Microwave Oven 900W,Office Supplies,Appliances,South,North Carolina,11.99,3.7
+CA-2023-369956,CUST-55607,2023-06-03,Apple Pencil,Technology,Accessories,South,Georgia,883.88,170.24
+CA-2025-882215,CUST-30700,2025-01-23,3D Printer Ender 3,Technology,Machines,West,Arizona,409.29,-13.52
+CA-2024-453646,CUST-56976,2024-02-25,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Texas,83.38,-1.47
+CA-2023-237686,CUST-37056,2023-10-17,3D Printer Ender 3,Technology,Machines,Central,Wisconsin,203.92,101.96
+CA-2024-596965,CUST-90437,2024-11-30,Samsung Galaxy S24,Technology,Phones,West,Oregon,149.93,74.96
+CA-2024-714741,CUST-48578,2024-01-19,Coffee Maker Espresso,Office Supplies,Appliances,West,Colorado,53.95,14.56
+CA-2023-528733,CUST-70957,2023-11-02,OnePlus 12,Technology,Phones,South,North Carolina,85.17,25.83
+CA-2024-327189,CUST-17214,2024-05-10,Paper Clips Jumbo,Office Supplies,Fasteners,East,Maryland,12.29,-1.01
+CA-2025-802495,CUST-13273,2025-07-26,Presentation Folder Pack,Office Supplies,Binders,East,New York,19.09,-3.32
+CA-2023-692656,CUST-37128,2023-01-10,Sticky Notes Neon,Office Supplies,Paper,Central,Wisconsin,9.87,4.93
+CA-2026-457246,CUST-20728,2026-01-09,Wall Clock Modern,Furniture,Furnishings,West,Colorado,411.8,205.9
+CA-2025-637977,CUST-75942,2025-10-03,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Illinois,6.41,1.7
+CA-2023-403664,CUST-11538,2023-09-02,Bubble Mailers padded,Office Supplies,Envelopes,West,California,21.83,-1.1
+CA-2026-229887,CUST-60719,2026-01-28,Autonomous ErgoChair,Furniture,Chairs,South,Virginia,38.21,5.25
+CA-2024-539030,CUST-47564,2024-11-04,Bubble Mailers padded,Office Supplies,Envelopes,East,New York,39.39,14.76
+CA-2026-755348,CUST-20578,2026-04-06,Google Pixel 8,Technology,Phones,West,Oregon,1307.98,386.77
+CA-2026-746238,CUST-79267,2026-01-17,Heavy Duty Binder,Office Supplies,Binders,South,Florida,76.68,7.32
+CA-2024-386479,CUST-21889,2024-06-02,Acrylic Paint Set,Office Supplies,Art,East,Massachusetts,55.44,9.01
+CA-2026-192036,CUST-69722,2026-02-23,Compact Refrigerator,Office Supplies,Appliances,East,New York,30.34,1.06
+CA-2025-363031,CUST-33620,2025-04-25,Cardstock Heavyweight,Office Supplies,Paper,East,New York,57.05,4.12
+CA-2024-583779,CUST-17846,2024-07-12,OnePlus 12,Technology,Phones,East,Ohio,620.35,118.24
+CA-2025-189116,CUST-32931,2025-01-29,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Illinois,7.89,0.97
+CA-2023-861401,CUST-26901,2023-11-18,Cricut Maker 3,Technology,Machines,Central,Wisconsin,89.2,18.94
+CA-2024-480634,CUST-24256,2024-02-29,3D Printer Ender 3,Technology,Machines,South,North Carolina,96.93,-9.16
+CA-2024-235189,CUST-98229,2024-08-08,Solid Wood Bookcase,Furniture,Bookcases,South,North Carolina,24.65,0.66
+CA-2023-837242,CUST-32547,2023-08-18,Apple Pencil,Technology,Accessories,West,Colorado,395.89,-5.51
+CA-2025-789870,CUST-91730,2025-03-12,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Illinois,38.57,11.55
+CA-2025-380833,CUST-61707,2025-12-18,Epson EcoTank Pro,Technology,Machines,South,Georgia,243.47,-3.23
+CA-2025-979459,CUST-11813,2025-08-04,Standing Desk Birch,Furniture,Tables,Central,Indiana,251.87,35.58
+CA-2023-838096,CUST-52051,2023-10-28,3D Printer Ender 3,Technology,Machines,Central,Texas,208.69,31.44
+CA-2023-957253,CUST-83903,2023-09-19,Keychron K2 Keyboard,Technology,Accessories,South,Georgia,43.88,12.97
+CA-2026-588067,CUST-70686,2026-02-24,Canon ImageCLASS,Technology,Copiers,South,Georgia,2240.71,599.37
+CA-2025-890449,CUST-85945,2025-11-30,3D Printer Ender 3,Technology,Machines,Central,Wisconsin,844.76,-45.95
+CA-2025-319128,CUST-70128,2025-12-06,Autonomous ErgoChair,Furniture,Chairs,West,Washington,21.14,7.54
+CA-2026-429231,CUST-96346,2026-03-30,Coffee Table Pine,Furniture,Tables,South,Georgia,545.63,-2.26
+CA-2024-498499,CUST-79906,2024-09-30,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,South,Georgia,37.43,12.2
+CA-2024-798876,CUST-99160,2024-12-21,Billy Bookcase White,Furniture,Bookcases,South,Florida,505.98,-43.27
+CA-2025-511473,CUST-96664,2025-05-14,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Texas,17.85,0.73
+CA-2024-105668,CUST-48506,2024-02-24,Microwave Oven 900W,Office Supplies,Appliances,East,Ohio,46.1,21.18
+CA-2026-721781,CUST-98835,2026-05-13,Bubble Mailers padded,Office Supplies,Envelopes,East,Massachusetts,15.61,5.09
+CA-2025-953605,CUST-66704,2025-07-22,IKEA Markus,Furniture,Chairs,Central,Wisconsin,391.06,-51.3
+CA-2025-935825,CUST-28452,2025-05-09,Crayola Colored Pencils,Office Supplies,Art,South,Virginia,31.59,4.15
+CA-2025-944052,CUST-13606,2025-01-15,HP LaserJet Pro Copier,Technology,Copiers,West,California,709.38,255.63
+CA-2024-453827,CUST-58516,2024-06-27,Standing Desk Birch,Furniture,Tables,East,Pennsylvania,713.07,172.33
+CA-2024-166197,CUST-66358,2024-06-30,Logitech MX Master 3S,Technology,Accessories,East,New York,174.11,-28.77
+CA-2024-389662,CUST-16968,2024-02-18,Herman Miller Aeron,Furniture,Chairs,South,Tennessee,137.37,-12.1
+CA-2025-734102,CUST-15520,2025-12-04,Logitech MX Master 3S,Technology,Accessories,East,Massachusetts,294.39,143.07
+CA-2024-350144,CUST-88581,2024-10-23,Steelcase Gesture,Furniture,Chairs,South,Georgia,538.55,57.32
+CA-2023-129345,CUST-53939,2023-04-25,Apple Pencil,Technology,Accessories,South,North Carolina,168.59,10.34
+CA-2024-484583,CUST-64935,2024-02-16,Manila Envelopes Pack,Office Supplies,Envelopes,South,Florida,30.21,14.71
+CA-2023-331324,CUST-18640,2023-06-24,Dining Table Oak,Furniture,Tables,Central,Illinois,254.52,30.58
+CA-2023-504015,CUST-42972,2023-08-27,OnePlus 12,Technology,Phones,Central,Wisconsin,236.28,52.41
+CA-2023-261081,CUST-25810,2023-11-01,Canon ImageCLASS,Technology,Copiers,Central,Illinois,383.02,111.69
+CA-2023-747418,CUST-75048,2023-06-20,Brother Monochrome Copier,Technology,Copiers,Central,Wisconsin,105.36,35.23
+CA-2024-151831,CUST-52056,2024-10-29,iPhone 15 Pro,Technology,Phones,East,New York,270.51,76.92
+CA-2025-333192,CUST-82309,2025-08-04,Paper Clips Jumbo,Office Supplies,Fasteners,South,North Carolina,91.89,12.29
+CA-2025-397016,CUST-47405,2025-07-30,Industrial Metal Bookshelf,Furniture,Bookcases,West,Arizona,55.14,12.91
+CA-2023-851731,CUST-35307,2023-10-19,iPhone 15 Pro,Technology,Phones,East,Pennsylvania,293.1,24.87
+CA-2023-145095,CUST-32335,2023-07-25,Push Pins Colorful,Office Supplies,Fasteners,South,Virginia,62.73,8.35
+CA-2026-427069,CUST-18026,2026-02-19,Heavy Duty Binder,Office Supplies,Binders,West,California,26.02,0.33
+CA-2024-345144,CUST-64319,2024-12-19,Keychron K2 Keyboard,Technology,Accessories,Central,Wisconsin,177.44,46.99
+CA-2024-534219,CUST-99791,2024-04-29,Brother Monochrome Copier,Technology,Copiers,West,California,175.45,3.88
+CA-2024-347572,CUST-27374,2024-12-27,Floor Rug Geometric,Furniture,Furnishings,Central,Wisconsin,255.18,-3.4
+CA-2025-290121,CUST-94811,2025-07-26,Google Pixel 8,Technology,Phones,East,Ohio,87.01,35.34
+CA-2025-735274,CUST-16859,2025-01-03,Cardstock Heavyweight,Office Supplies,Paper,East,Pennsylvania,26.72,5.38
+CA-2025-473393,CUST-14886,2025-05-07,Desk Lamp LED,Furniture,Furnishings,West,California,81.65,6.61
+CA-2026-137019,CUST-41709,2026-02-26,Keychron K2 Keyboard,Technology,Accessories,Central,Michigan,366.85,117.24
+CA-2025-517247,CUST-53395,2025-09-25,Push Pins Colorful,Office Supplies,Fasteners,West,Washington,59.02,-1.86
+CA-2025-336094,CUST-13748,2025-02-07,Standing Desk Birch,Furniture,Tables,Central,Michigan,439.78,-133.37
+CA-2025-526673,CUST-45959,2025-04-07,IKEA Markus,Furniture,Chairs,East,Ohio,185.49,-5.4
+CA-2023-482865,CUST-38901,2023-03-18,Wall Clock Modern,Furniture,Furnishings,Central,Wisconsin,22.41,7.71
+CA-2024-688574,CUST-85403,2024-11-18,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,South,Tennessee,33.22,-5.53
+CA-2025-998035,CUST-73344,2025-02-19,Crayola Colored Pencils,Office Supplies,Art,South,North Carolina,5.62,1.49
+CA-2024-893076,CUST-72767,2024-05-22,Binder Clips Assorted,Office Supplies,Fasteners,South,Georgia,60.11,0.68
+CA-2026-799746,CUST-33993,2026-06-12,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Texas,27.29,2.13
+CA-2023-695484,CUST-85324,2023-03-09,Acrylic Paint Set,Office Supplies,Art,East,Pennsylvania,11.71,5.24
+CA-2025-892173,CUST-97959,2025-05-04,Billy Bookcase White,Furniture,Bookcases,South,North Carolina,163.38,63.28
+CA-2025-507427,CUST-40257,2025-02-18,Steelcase Gesture,Furniture,Chairs,West,California,180.3,39.46
+CA-2025-618420,CUST-57574,2025-06-06,Canon ImageCLASS,Technology,Copiers,South,Florida,423.38,66.09
+CA-2024-962034,CUST-10917,2024-04-02,3D Printer Ender 3,Technology,Machines,West,California,84.07,12.48
+CA-2025-317741,CUST-69821,2025-07-31,Floor Rug Geometric,Furniture,Furnishings,West,California,240.21,90.7
+CA-2025-265159,CUST-96795,2025-12-02,Floor Rug Geometric,Furniture,Furnishings,East,Ohio,259.74,68.35
+CA-2025-480714,CUST-32439,2025-05-25,Picture Frame Set,Furniture,Furnishings,Central,Texas,27.09,2.82
+CA-2024-588051,CUST-61539,2024-10-01,Binder Clips Assorted,Office Supplies,Fasteners,South,Tennessee,173.19,-5.6
+CA-2026-365471,CUST-98151,2026-05-23,Sticky Notes Neon,Office Supplies,Paper,South,Virginia,15.96,6.68
+CA-2024-152446,CUST-56830,2024-04-09,Notebook Spiral,Office Supplies,Paper,South,Tennessee,7.9,0.45
+CA-2025-303561,CUST-45903,2025-08-02,Autonomous ErgoChair,Furniture,Chairs,East,Ohio,394.46,5.77
+CA-2025-741593,CUST-45179,2025-12-30,Industrial Metal Bookshelf,Furniture,Bookcases,East,Pennsylvania,24.44,6.64
+CA-2024-792459,CUST-64567,2024-08-06,Sketchbook Medium,Office Supplies,Art,West,Oregon,16.91,-5.19
+CA-2025-595654,CUST-92569,2025-12-19,Epson EcoTank Pro,Technology,Machines,Central,Indiana,99.55,15.1
+CA-2023-773623,CUST-28814,2023-06-15,Binder Clips Assorted,Office Supplies,Fasteners,South,North Carolina,42.29,8.87
+CA-2023-897124,CUST-33741,2023-04-06,Coffee Table Pine,Furniture,Tables,West,Colorado,5.79,0.41
+CA-2025-545150,CUST-95238,2025-12-24,3-Ring Binder 2-inch,Office Supplies,Binders,South,Georgia,19.9,2.62
+CA-2023-395599,CUST-80744,2023-08-14,Billy Bookcase White,Furniture,Bookcases,South,Georgia,99.17,26.81
+CA-2025-655667,CUST-96055,2025-04-28,Billy Bookcase White,Furniture,Bookcases,East,Maryland,343.35,25.62
+CA-2024-214091,CUST-46683,2024-03-22,Solid Wood Bookcase,Furniture,Bookcases,Central,Michigan,407.01,47.71
+CA-2023-658988,CUST-45303,2023-07-06,iPhone 15 Pro,Technology,Phones,Central,Michigan,538.09,49.73
+CA-2023-907221,CUST-11881,2023-07-07,Premium Copy Paper A4,Office Supplies,Paper,West,Colorado,11.85,-0.98
+CA-2026-217473,CUST-16901,2026-06-14,Desk Lamp LED,Furniture,Furnishings,East,New York,390.03,39.92
+CA-2025-900511,CUST-96402,2025-06-24,Compact Refrigerator,Office Supplies,Appliances,South,Tennessee,76.52,18.64
+CA-2023-334196,CUST-39437,2023-10-14,Wall Clock Modern,Furniture,Furnishings,South,Virginia,5.16,-0.65
+CA-2024-591121,CUST-12985,2024-09-30,Epson EcoTank Pro,Technology,Machines,Central,Indiana,250.23,22.87
+CA-2025-186124,CUST-81386,2025-12-17,Push Pins Colorful,Office Supplies,Fasteners,West,Colorado,17.24,1.77
+CA-2024-321094,CUST-64028,2024-11-29,OnePlus 12,Technology,Phones,Central,Wisconsin,72.13,-19.8
+CA-2025-297478,CUST-62509,2025-07-01,Cricut Maker 3,Technology,Machines,Central,Texas,79.87,10.39
+CA-2024-281871,CUST-57764,2024-08-28,Notebook Spiral,Office Supplies,Paper,South,Virginia,54.89,23.39
+CA-2024-536607,CUST-57574,2024-07-18,Herman Miller Aeron,Furniture,Chairs,West,California,461.87,8.33
+CA-2025-397698,CUST-84795,2025-10-21,3-Ring Binder 2-inch,Office Supplies,Binders,West,Arizona,63.03,12.28
+CA-2023-770909,CUST-28074,2023-03-13,HP LaserJet Pro Copier,Technology,Copiers,East,Ohio,560.75,33.18
+CA-2025-478336,CUST-32800,2025-05-12,Herman Miller Aeron,Furniture,Chairs,Central,Texas,100.7,-2.8
+CA-2026-637970,CUST-96242,2026-06-10,Premium Copy Paper A4,Office Supplies,Paper,South,Georgia,54.6,23.57
+CA-2025-681904,CUST-20234,2025-05-20,Industrial Metal Bookshelf,Furniture,Bookcases,West,Washington,246.64,19.48
+CA-2026-326572,CUST-87475,2026-05-26,Desk Lamp LED,Furniture,Furnishings,Central,Indiana,248.67,124.34
+CA-2023-327579,CUST-97225,2023-03-24,Push Pins Colorful,Office Supplies,Fasteners,West,Colorado,90.23,18.87
+CA-2024-860177,CUST-58847,2024-04-16,Wall Clock Modern,Furniture,Furnishings,Central,Indiana,84.69,4.66
+CA-2024-878776,CUST-86524,2024-10-15,Presentation Folder Pack,Office Supplies,Binders,East,Pennsylvania,110.81,-9.58
+CA-2026-431927,CUST-18002,2026-05-19,HP LaserJet Pro Copier,Technology,Copiers,South,Florida,7.76,2.9
+CA-2024-931156,CUST-22392,2024-04-04,Industrial Metal Bookshelf,Furniture,Bookcases,South,Georgia,569.79,0.78
+CA-2023-739104,CUST-16511,2023-07-02,Steelcase Gesture,Furniture,Chairs,East,Ohio,109.68,17.21
+CA-2025-695376,CUST-39523,2025-09-11,Steelcase Gesture,Furniture,Chairs,Central,Illinois,36.09,3.88
+CA-2025-125901,CUST-64195,2025-05-27,OnePlus 12,Technology,Phones,Central,Texas,321.48,78.21
+CA-2024-486350,CUST-66683,2024-09-16,Air Purifier HEPA,Office Supplies,Appliances,East,Maryland,82.41,40.69
+CA-2026-677880,CUST-20377,2026-06-19,3D Printer Ender 3,Technology,Machines,South,Tennessee,610.63,223.36
+CA-2026-591830,CUST-44484,2026-06-14,3D Printer Ender 3,Technology,Machines,Central,Wisconsin,107.62,27.37
+CA-2023-102866,CUST-24011,2023-12-26,Solid Wood Bookcase,Furniture,Bookcases,East,Maryland,214.82,21.03
+CA-2025-993659,CUST-72901,2025-08-17,Standing Desk Birch,Furniture,Tables,South,Georgia,146.07,-4.02
+CA-2025-972999,CUST-64710,2025-05-06,Canon ImageCLASS,Technology,Copiers,Central,Illinois,349.75,67.75
+CA-2024-383028,CUST-44217,2024-11-24,Cardstock Heavyweight,Office Supplies,Paper,East,Ohio,24.44,8.74
+CA-2024-228652,CUST-69993,2024-06-12,Logitech MX Master 3S,Technology,Accessories,West,Oregon,740.31,93.76
+CA-2024-935655,CUST-52222,2024-01-01,HP LaserJet Pro Copier,Technology,Copiers,Central,Michigan,613.4,38.89
+CA-2025-753881,CUST-23269,2025-12-19,Canon ImageCLASS,Technology,Copiers,East,Pennsylvania,1111.54,112.56
+CA-2025-170021,CUST-21795,2025-09-12,Industrial Metal Bookshelf,Furniture,Bookcases,East,Massachusetts,211.49,-2.47
+CA-2024-733718,CUST-39227,2024-01-19,Acrylic Paint Set,Office Supplies,Art,South,Virginia,58.19,10.51
+CA-2024-642307,CUST-28323,2024-02-23,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Illinois,108.28,14.99
+CA-2026-279001,CUST-71381,2026-04-02,IKEA Markus,Furniture,Chairs,South,Virginia,208.17,30.26
+CA-2025-244771,CUST-72653,2025-01-01,Apple Pencil,Technology,Accessories,West,Oregon,500.31,84.42
+CA-2023-573288,CUST-69550,2023-06-20,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,West,Arizona,116.69,4.24
+CA-2025-381373,CUST-63218,2025-09-28,Conference Table Mahogany,Furniture,Tables,East,Maryland,384.63,-61.51
+CA-2023-813156,CUST-29094,2023-06-22,Coffee Table Pine,Furniture,Tables,East,Maryland,146.1,-48.34
+CA-2025-193078,CUST-13164,2025-10-24,Floor Rug Geometric,Furniture,Furnishings,East,Pennsylvania,185.44,31.73
+CA-2024-988698,CUST-82055,2024-09-15,Sketchbook Medium,Office Supplies,Art,South,North Carolina,177.48,-29.75
+CA-2025-143856,CUST-68819,2025-08-16,Canon ImageCLASS,Technology,Copiers,West,Colorado,1178.15,544.78
+CA-2025-787081,CUST-37386,2025-02-17,Notebook Spiral,Office Supplies,Paper,West,California,30.37,1.96
+CA-2023-232886,CUST-35416,2023-09-08,Billy Bookcase White,Furniture,Bookcases,South,Tennessee,96.76,-34.32
+CA-2025-263052,CUST-44785,2025-07-12,Cardstock Heavyweight,Office Supplies,Paper,East,Pennsylvania,8.95,3.37
+CA-2024-723640,CUST-16782,2024-08-28,Industrial Metal Bookshelf,Furniture,Bookcases,East,Ohio,71.97,-10.37
+CA-2025-663457,CUST-15695,2025-06-12,Keychron K2 Keyboard,Technology,Accessories,East,Ohio,21.08,1.24
+CA-2023-412849,CUST-65026,2023-08-29,Bubble Mailers padded,Office Supplies,Envelopes,East,New York,74.67,10.0
+CA-2023-327203,CUST-42443,2023-03-17,Binder Clips Assorted,Office Supplies,Fasteners,East,Ohio,39.49,5.66
+CA-2024-918438,CUST-42766,2024-08-13,Rubber Bands Premium,Office Supplies,Fasteners,West,Arizona,29.99,6.83
+CA-2023-120855,CUST-92384,2023-09-10,Epson EcoTank Pro,Technology,Machines,East,Massachusetts,244.18,74.38
+CA-2026-223805,CUST-25972,2026-04-13,Binder Clips Assorted,Office Supplies,Fasteners,South,Tennessee,97.03,28.61
+CA-2023-767565,CUST-91326,2023-08-16,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Wisconsin,69.25,21.81
+CA-2025-180152,CUST-89507,2025-10-08,Industrial Metal Bookshelf,Furniture,Bookcases,East,Pennsylvania,19.59,0.64
+CA-2024-881738,CUST-74140,2024-04-15,Standing Desk Birch,Furniture,Tables,West,Arizona,570.1,-14.18
+CA-2025-157062,CUST-55896,2025-07-20,Sketchbook Medium,Office Supplies,Art,East,Massachusetts,55.22,13.42
+CA-2024-183793,CUST-13121,2024-01-23,3D Printer Ender 3,Technology,Machines,East,Ohio,183.81,72.63
+CA-2025-851393,CUST-54331,2025-09-15,Logitech MX Master 3S,Technology,Accessories,East,Massachusetts,1518.8,499.59
+CA-2024-678748,CUST-20068,2024-03-16,Acrylic Paint Set,Office Supplies,Art,Central,Texas,30.64,10.75
+CA-2026-468655,CUST-48751,2026-03-07,Billy Bookcase White,Furniture,Bookcases,South,North Carolina,86.76,13.01
+CA-2025-111984,CUST-45422,2025-06-26,Canon ImageCLASS,Technology,Copiers,South,Virginia,612.33,306.17
+CA-2024-851209,CUST-31889,2024-12-11,Presentation Folder Pack,Office Supplies,Binders,West,Washington,55.42,3.79
+CA-2024-115216,CUST-94762,2024-05-04,Standing Desk Birch,Furniture,Tables,West,Washington,219.13,46.25
+CA-2023-288069,CUST-89443,2023-01-30,Epson EcoTank Pro,Technology,Machines,East,Massachusetts,1151.32,493.79
+CA-2024-653380,CUST-61502,2024-07-07,Desk Lamp LED,Furniture,Furnishings,East,New York,478.36,-85.33
+CA-2023-187592,CUST-39978,2023-12-29,Floor Rug Geometric,Furniture,Furnishings,Central,Texas,137.49,36.45
+CA-2025-218843,CUST-82742,2025-02-26,Autonomous ErgoChair,Furniture,Chairs,West,Arizona,52.99,7.21
+CA-2025-126270,CUST-93329,2025-07-11,Keychron K2 Keyboard,Technology,Accessories,Central,Indiana,363.61,126.91
+CA-2024-514027,CUST-15247,2024-11-04,Floor Rug Geometric,Furniture,Furnishings,West,Oregon,91.81,-30.23
+CA-2023-438767,CUST-53646,2023-07-25,Epson EcoTank Pro,Technology,Machines,West,California,731.91,332.83
+CA-2024-633903,CUST-67823,2024-10-24,Manila Envelopes Pack,Office Supplies,Envelopes,West,Colorado,45.5,21.88
+CA-2024-605168,CUST-68255,2024-12-10,HP LaserJet Pro Copier,Technology,Copiers,Central,Indiana,1037.15,212.6
+CA-2023-837651,CUST-46634,2023-04-19,Sketchbook Medium,Office Supplies,Art,South,North Carolina,5.0,-2.12
+CA-2025-472818,CUST-30955,2025-02-23,Conference Table Mahogany,Furniture,Tables,South,Tennessee,795.34,126.87
+CA-2023-291896,CUST-19726,2023-11-22,Binder Clips Assorted,Office Supplies,Fasteners,Central,Wisconsin,27.15,13.58
+CA-2023-426571,CUST-35216,2023-03-13,Acrylic Paint Set,Office Supplies,Art,South,North Carolina,39.16,14.88
+CA-2023-443150,CUST-99524,2023-02-27,Samsung Galaxy S24,Technology,Phones,Central,Indiana,463.52,130.18
+CA-2023-758354,CUST-64383,2023-01-29,Brother Monochrome Copier,Technology,Copiers,Central,Michigan,55.93,-3.58
+CA-2023-337330,CUST-96005,2023-08-31,Billy Bookcase White,Furniture,Bookcases,South,Tennessee,284.99,38.42
+CA-2026-798419,CUST-27883,2026-01-14,Manila Envelopes Pack,Office Supplies,Envelopes,East,Ohio,14.83,2.08
+CA-2023-592443,CUST-66396,2023-10-26,3D Printer Ender 3,Technology,Machines,West,Colorado,357.36,15.43
+CA-2024-438585,CUST-38621,2024-03-14,Solid Wood Bookcase,Furniture,Bookcases,East,Pennsylvania,177.35,-26.0
+CA-2025-572295,CUST-93163,2025-01-11,Microwave Oven 900W,Office Supplies,Appliances,South,North Carolina,112.24,33.7
+CA-2024-832722,CUST-50874,2024-10-13,Samsung Galaxy S24,Technology,Phones,Central,Illinois,1483.44,188.85
+CA-2023-915363,CUST-25989,2023-04-26,Sticky Notes Neon,Office Supplies,Paper,East,Pennsylvania,28.92,8.87
+CA-2026-469430,CUST-37052,2026-05-23,Wall Clock Modern,Furniture,Furnishings,South,Florida,123.64,2.15
+CA-2026-348141,CUST-37405,2026-04-02,Push Pins Colorful,Office Supplies,Fasteners,Central,Michigan,32.05,1.96
+CA-2024-514380,CUST-45932,2024-05-14,Push Pins Colorful,Office Supplies,Fasteners,Central,Michigan,5.01,2.12
+CA-2026-817221,CUST-51203,2026-06-23,Cardstock Heavyweight,Office Supplies,Paper,South,Florida,144.12,60.05
+CA-2026-620841,CUST-39001,2026-04-07,Canon ImageCLASS,Technology,Copiers,East,Ohio,170.05,28.85
+CA-2025-510243,CUST-11539,2025-07-18,Binder Clips Assorted,Office Supplies,Fasteners,West,California,6.93,-0.16
+CA-2026-197799,CUST-79922,2026-04-16,3D Printer Ender 3,Technology,Machines,West,Washington,306.98,116.2
+CA-2024-886939,CUST-58785,2024-01-12,3D Printer Ender 3,Technology,Machines,South,North Carolina,231.8,115.9
+CA-2023-310448,CUST-96436,2023-09-17,Binder Clips Assorted,Office Supplies,Fasteners,West,California,84.33,11.95
+CA-2023-270205,CUST-81947,2023-04-18,Standing Desk Birch,Furniture,Tables,South,Tennessee,38.2,-3.81
+CA-2024-105209,CUST-85609,2024-03-17,Keychron K2 Keyboard,Technology,Accessories,West,Colorado,295.5,101.29
+CA-2023-549764,CUST-16089,2023-02-02,Dining Table Oak,Furniture,Tables,South,Florida,522.62,38.0
+CA-2025-363328,CUST-36140,2025-04-23,Paper Clips Jumbo,Office Supplies,Fasteners,South,Georgia,51.47,2.62
+CA-2023-355658,CUST-68502,2023-09-16,Floor Rug Geometric,Furniture,Furnishings,Central,Texas,151.11,3.56
+CA-2024-825571,CUST-91418,2024-01-13,3-Ring Binder 2-inch,Office Supplies,Binders,East,Maryland,8.17,-2.35
+CA-2026-466330,CUST-85318,2026-01-13,Rubber Bands Premium,Office Supplies,Fasteners,West,Arizona,5.65,-0.69
+CA-2024-207449,CUST-67608,2024-03-08,Apple Pencil,Technology,Accessories,Central,Wisconsin,582.05,-33.75
+CA-2025-675610,CUST-10924,2025-06-08,Acrylic Paint Set,Office Supplies,Art,East,Massachusetts,17.6,3.06
+CA-2023-498731,CUST-21781,2023-02-04,Paper Clips Jumbo,Office Supplies,Fasteners,Central,Michigan,101.77,0.08
+CA-2023-142674,CUST-97939,2023-06-24,Canon ImageCLASS,Technology,Copiers,West,Oregon,2092.21,226.15
+CA-2023-303085,CUST-63051,2023-01-09,iPhone 15 Pro,Technology,Phones,South,Georgia,86.96,43.48
+CA-2023-830602,CUST-45081,2023-01-01,Picture Frame Set,Furniture,Furnishings,Central,Illinois,695.87,109.5
+CA-2025-202166,CUST-78472,2025-07-25,Rubber Bands Premium,Office Supplies,Fasteners,Central,Michigan,7.17,2.33
+CA-2026-494295,CUST-28610,2026-01-20,Notebook Spiral,Office Supplies,Paper,West,Arizona,44.0,-2.94
+CA-2025-162712,CUST-92733,2025-12-27,Wall Clock Modern,Furniture,Furnishings,East,Maryland,72.6,11.74
+CA-2025-404958,CUST-79806,2025-03-23,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,South,Florida,51.92,17.51
+CA-2026-924628,CUST-19190,2026-03-16,Conference Table Mahogany,Furniture,Tables,East,Maryland,68.61,-15.43
+CA-2025-418903,CUST-16869,2025-06-05,Industrial Metal Bookshelf,Furniture,Bookcases,West,Arizona,141.19,-36.2
+CA-2024-496178,CUST-93232,2024-11-29,Compact Refrigerator,Office Supplies,Appliances,East,New York,146.8,30.11
+CA-2026-751084,CUST-29023,2026-04-06,Industrial Metal Bookshelf,Furniture,Bookcases,East,Massachusetts,286.33,54.74
+CA-2024-947405,CUST-18876,2024-03-19,Paper Clips Jumbo,Office Supplies,Fasteners,East,Maryland,219.72,9.95
+CA-2023-787018,CUST-70758,2023-03-05,Paper Clips Jumbo,Office Supplies,Fasteners,South,Georgia,43.57,-2.67
+CA-2026-358360,CUST-93860,2026-06-02,Crayola Colored Pencils,Office Supplies,Art,West,Washington,8.22,0.44
+CA-2026-539727,CUST-11073,2026-03-04,Rubber Bands Premium,Office Supplies,Fasteners,Central,Wisconsin,42.71,11.91
+CA-2024-102159,CUST-50025,2024-06-16,iPhone 15 Pro,Technology,Phones,South,Virginia,126.16,63.08
+CA-2025-523448,CUST-61137,2025-07-25,Standing Desk Birch,Furniture,Tables,East,Ohio,89.09,-19.19
+CA-2024-187980,CUST-10901,2024-07-03,Binder Clips Assorted,Office Supplies,Fasteners,West,Colorado,13.62,-0.14
+CA-2023-696860,CUST-69251,2023-05-26,HP LaserJet Pro Copier,Technology,Copiers,Central,Indiana,133.93,27.97
+CA-2024-243704,CUST-95473,2024-05-22,Autonomous ErgoChair,Furniture,Chairs,South,North Carolina,241.46,-32.72
+CA-2025-183791,CUST-47344,2025-12-01,Heavy Duty Binder,Office Supplies,Binders,Central,Wisconsin,45.57,-0.23
+CA-2023-900607,CUST-81289,2023-01-21,3D Printer Ender 3,Technology,Machines,South,Georgia,597.54,197.04
+CA-2024-202780,CUST-69123,2024-08-22,Brother Monochrome Copier,Technology,Copiers,West,California,152.73,76.36
+CA-2023-652144,CUST-68755,2023-06-03,Crayola Colored Pencils,Office Supplies,Art,West,Oregon,32.61,16.06
+CA-2024-435468,CUST-15033,2024-06-08,Autonomous ErgoChair,Furniture,Chairs,Central,Michigan,17.62,3.27
+CA-2025-866941,CUST-80152,2025-02-06,Brother Monochrome Copier,Technology,Copiers,Central,Wisconsin,14.97,2.23
+CA-2024-124648,CUST-66827,2024-07-02,Heavy Duty Binder,Office Supplies,Binders,West,Arizona,15.59,-1.49
+CA-2026-799597,CUST-71084,2026-03-20,Billy Bookcase White,Furniture,Bookcases,South,Florida,46.19,-1.03
+CA-2024-622904,CUST-82833,2024-05-07,Anker USB-C Hub,Technology,Accessories,West,Washington,523.01,100.51
+CA-2024-263402,CUST-54130,2024-11-28,Picture Frame Set,Furniture,Furnishings,Central,Michigan,131.99,6.85
+CA-2023-413559,CUST-30863,2023-05-24,3D Printer Ender 3,Technology,Machines,Central,Indiana,914.19,164.22
+CA-2023-942672,CUST-24605,2023-07-02,Push Pins Colorful,Office Supplies,Fasteners,South,North Carolina,74.8,7.62
+CA-2024-207792,CUST-11577,2024-08-17,Manila Envelopes Pack,Office Supplies,Envelopes,South,North Carolina,74.19,17.31
+CA-2024-689719,CUST-71957,2024-07-01,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Illinois,18.82,-2.92
+CA-2026-324737,CUST-82573,2026-02-12,Sketchbook Medium,Office Supplies,Art,Central,Michigan,142.01,39.66
+CA-2023-977751,CUST-31045,2023-01-21,Rubber Bands Premium,Office Supplies,Fasteners,West,Colorado,136.14,40.44
+CA-2025-247646,CUST-12716,2025-06-23,Wall Clock Modern,Furniture,Furnishings,South,North Carolina,51.24,-1.37
+CA-2024-886895,CUST-60906,2024-09-07,Solid Wood Bookcase,Furniture,Bookcases,Central,Michigan,457.65,-87.89
+CA-2023-154970,CUST-32504,2023-06-14,Sticky Notes Neon,Office Supplies,Paper,West,Oregon,183.93,34.6
+CA-2023-220494,CUST-43139,2023-01-03,Industrial Metal Bookshelf,Furniture,Bookcases,South,Tennessee,643.38,-17.93
+CA-2024-371409,CUST-48737,2024-10-24,Conference Table Mahogany,Furniture,Tables,South,North Carolina,289.21,-26.72
+CA-2025-320935,CUST-53254,2025-03-14,Sketchbook Medium,Office Supplies,Art,South,Tennessee,20.94,1.16
+CA-2026-391568,CUST-77443,2026-05-30,Samsung Galaxy S24,Technology,Phones,East,Massachusetts,304.94,141.31
+CA-2026-921190,CUST-52065,2026-01-26,Brother Monochrome Copier,Technology,Copiers,West,Oregon,220.05,42.43
+CA-2024-359021,CUST-23668,2024-01-21,Cricut Maker 3,Technology,Machines,Central,Indiana,224.41,23.56
+CA-2025-259204,CUST-24626,2025-01-26,Coffee Table Pine,Furniture,Tables,Central,Michigan,158.14,32.33
+CA-2024-330881,CUST-16054,2024-08-19,Standing Desk Birch,Furniture,Tables,South,Florida,147.85,-14.65
+CA-2024-934354,CUST-77087,2024-03-23,OnePlus 12,Technology,Phones,Central,Wisconsin,797.42,193.94
+CA-2025-549813,CUST-99813,2025-04-11,Billy Bookcase White,Furniture,Bookcases,East,Ohio,22.5,-2.7
+CA-2024-516704,CUST-36950,2024-06-13,Premium Copy Paper A4,Office Supplies,Paper,West,Arizona,37.32,-2.69
+CA-2023-133896,CUST-20345,2023-06-10,Coffee Maker Espresso,Office Supplies,Appliances,East,Pennsylvania,7.49,-0.88
+CA-2025-699095,CUST-14567,2025-05-23,OnePlus 12,Technology,Phones,East,Maryland,542.43,213.14
+CA-2025-395830,CUST-98721,2025-09-03,Industrial Metal Bookshelf,Furniture,Bookcases,East,Pennsylvania,159.39,24.29
+CA-2023-821041,CUST-81927,2023-03-12,Industrial Metal Bookshelf,Furniture,Bookcases,East,Pennsylvania,198.26,20.21
+CA-2024-789995,CUST-72894,2024-06-04,Solid Wood Bookcase,Furniture,Bookcases,East,Massachusetts,444.37,-22.79
+CA-2025-952208,CUST-90960,2025-04-19,3D Printer Ender 3,Technology,Machines,South,North Carolina,228.56,13.31
+CA-2024-259132,CUST-28557,2024-04-03,Cardstock Heavyweight,Office Supplies,Paper,East,New York,142.98,-30.1
+CA-2023-284054,CUST-37025,2023-04-22,Steelcase Gesture,Furniture,Chairs,East,New York,469.98,43.22
+CA-2024-126081,CUST-50875,2024-07-22,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Indiana,95.0,21.85
+CA-2024-106464,CUST-36532,2024-12-10,Sticky Notes Neon,Office Supplies,Paper,Central,Wisconsin,11.73,0.08
+CA-2024-443003,CUST-12895,2024-06-21,Cricut Maker 3,Technology,Machines,West,Colorado,10.79,-3.01
+CA-2024-104011,CUST-95382,2024-06-18,Brother Monochrome Copier,Technology,Copiers,East,Maryland,204.9,0.18
+CA-2024-469673,CUST-42769,2024-10-20,Herman Miller Aeron,Furniture,Chairs,Central,Indiana,402.95,31.71
+CA-2025-214003,CUST-53880,2025-03-10,Anker USB-C Hub,Technology,Accessories,Central,Texas,41.6,-0.32
+CA-2024-876652,CUST-15529,2024-06-18,Air Purifier HEPA,Office Supplies,Appliances,East,New York,6.98,-1.21
+CA-2024-531322,CUST-35279,2024-09-12,iPhone 15 Pro,Technology,Phones,East,Pennsylvania,51.02,10.81
+CA-2026-737506,CUST-69470,2026-03-23,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,Central,Illinois,39.08,7.15
+CA-2024-156633,CUST-86290,2024-08-05,Presentation Folder Pack,Office Supplies,Binders,South,Florida,23.34,7.85
+CA-2026-529145,CUST-45398,2026-01-31,Coffee Table Pine,Furniture,Tables,Central,Indiana,40.47,-8.34
+CA-2023-499017,CUST-95998,2023-03-15,Coffee Maker Espresso,Office Supplies,Appliances,West,California,38.6,11.36
+CA-2023-543833,CUST-30977,2023-07-06,Industrial Metal Bookshelf,Furniture,Bookcases,South,Tennessee,109.99,24.85
+CA-2026-968117,CUST-65739,2026-05-23,3-Ring Binder 2-inch,Office Supplies,Binders,South,Georgia,63.14,1.49
+CA-2023-444407,CUST-71868,2023-02-10,Desk Lamp LED,Furniture,Furnishings,Central,Wisconsin,477.49,3.48
+CA-2025-961501,CUST-36619,2025-06-07,Epson EcoTank Pro,Technology,Machines,Central,Wisconsin,342.97,171.48
+CA-2024-964950,CUST-75425,2024-10-22,Cricut Maker 3,Technology,Machines,Central,Illinois,91.99,30.61
+CA-2024-133324,CUST-54755,2024-05-10,Herman Miller Aeron,Furniture,Chairs,East,New York,35.52,1.78
+CA-2024-394507,CUST-32634,2024-07-12,Google Pixel 8,Technology,Phones,South,Virginia,107.98,20.35
+CA-2024-179795,CUST-62057,2024-06-14,Steelcase Gesture,Furniture,Chairs,East,Massachusetts,249.7,-7.06
+CA-2025-563120,CUST-10786,2025-03-20,Epson EcoTank Pro,Technology,Machines,West,Colorado,232.45,70.49
+CA-2024-841063,CUST-29810,2024-07-20,Anker USB-C Hub,Technology,Accessories,East,Massachusetts,659.1,105.54
+CA-2024-189353,CUST-25896,2024-07-14,Picture Frame Set,Furniture,Furnishings,East,Maryland,161.0,39.75
+CA-2026-399155,CUST-48799,2026-03-03,Cardstock Heavyweight,Office Supplies,Paper,South,Georgia,15.27,5.07
+CA-2023-823906,CUST-92643,2023-10-28,Anker USB-C Hub,Technology,Accessories,East,Massachusetts,262.82,17.85
+CA-2026-731339,CUST-31209,2026-03-09,Samsung Galaxy S24,Technology,Phones,West,Washington,444.52,-122.32
+CA-2025-319222,CUST-93400,2025-01-15,Bubble Mailers padded,Office Supplies,Envelopes,Central,Indiana,65.3,14.77
+CA-2024-850774,CUST-14994,2024-07-11,Picture Frame Set,Furniture,Furnishings,East,Ohio,109.5,-5.79
+CA-2026-103089,CUST-54387,2026-04-30,Binder Clips Assorted,Office Supplies,Fasteners,Central,Michigan,14.58,2.7
+CA-2024-986867,CUST-44565,2024-04-24,Bubble Mailers padded,Office Supplies,Envelopes,Central,Michigan,56.33,16.43
+CA-2024-978260,CUST-10534,2024-08-03,Google Pixel 8,Technology,Phones,South,Tennessee,140.01,17.14
+CA-2026-551448,CUST-76708,2026-03-23,Push Pins Colorful,Office Supplies,Fasteners,East,Maryland,30.72,4.88
+CA-2026-565417,CUST-13240,2026-06-15,Herman Miller Aeron,Furniture,Chairs,South,North Carolina,169.58,31.95
+CA-2025-563956,CUST-40825,2025-05-20,IKEA Markus,Furniture,Chairs,East,Maryland,38.13,4.42
+CA-2025-170268,CUST-39063,2025-02-12,Acrylic Paint Set,Office Supplies,Art,Central,Indiana,35.28,1.32
+CA-2024-700699,CUST-26121,2024-06-03,Cricut Maker 3,Technology,Machines,Central,Indiana,124.08,14.9
+CA-2023-289167,CUST-64797,2023-09-10,Standing Desk Birch,Furniture,Tables,East,Maryland,41.79,12.1
+CA-2024-504499,CUST-37302,2024-04-22,Premium Copy Paper A4,Office Supplies,Paper,East,Maryland,33.98,8.75
+CA-2024-445744,CUST-50325,2024-01-13,Heavy Duty Binder,Office Supplies,Binders,West,Colorado,9.02,0.98
+CA-2024-908183,CUST-83620,2024-12-12,Herman Miller Aeron,Furniture,Chairs,East,New York,145.16,-5.5
+CA-2023-222989,CUST-64857,2023-10-10,Cricut Maker 3,Technology,Machines,West,Washington,348.97,116.56
+CA-2025-461185,CUST-29222,2025-04-22,Cricut Maker 3,Technology,Machines,South,Tennessee,512.87,174.7
+CA-2023-451136,CUST-88353,2023-09-15,Apple Pencil,Technology,Accessories,South,North Carolina,349.73,81.46
+CA-2024-544503,CUST-50701,2024-02-06,Apple Pencil,Technology,Accessories,Central,Texas,212.17,73.68
+CA-2024-258761,CUST-91731,2024-06-08,3-Ring Binder 2-inch,Office Supplies,Binders,East,Ohio,15.12,7.56
+CA-2025-919745,CUST-96807,2025-04-12,OnePlus 12,Technology,Phones,East,New York,322.03,9.19
+CA-2024-409945,CUST-70282,2024-09-07,Industrial Metal Bookshelf,Furniture,Bookcases,South,Virginia,833.88,-62.55
+CA-2024-897653,CUST-57588,2024-08-11,Billy Bookcase White,Furniture,Bookcases,South,Georgia,480.87,0.31
+CA-2023-255976,CUST-97227,2023-09-11,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Michigan,108.28,14.47
+CA-2025-892244,CUST-31672,2025-04-24,Dining Table Oak,Furniture,Tables,East,Massachusetts,287.06,-32.89
+CA-2024-326179,CUST-37200,2024-12-10,Microwave Oven 900W,Office Supplies,Appliances,Central,Wisconsin,248.28,11.5
+CA-2024-969360,CUST-49148,2024-05-10,Bubble Mailers padded,Office Supplies,Envelopes,South,Tennessee,196.46,43.56
+CA-2025-206379,CUST-42152,2025-05-23,IKEA Markus,Furniture,Chairs,West,California,27.67,3.56
+CA-2024-717397,CUST-79444,2024-06-07,Picture Frame Set,Furniture,Furnishings,South,Tennessee,947.69,7.84
+CA-2024-626925,CUST-67913,2024-01-03,Heavy Duty Binder,Office Supplies,Binders,West,Oregon,23.17,-2.06
+CA-2026-977311,CUST-95092,2026-02-02,Presentation Folder Pack,Office Supplies,Binders,Central,Wisconsin,27.92,0.46
+CA-2025-377342,CUST-36627,2025-10-10,Picture Frame Set,Furniture,Furnishings,West,California,134.86,-8.9
+CA-2023-729674,CUST-52292,2023-04-11,Rubber Bands Premium,Office Supplies,Fasteners,Central,Texas,68.51,29.5
+CA-2024-356681,CUST-37675,2024-03-04,Keychron K2 Keyboard,Technology,Accessories,Central,Texas,55.33,-3.07
+CA-2023-498167,CUST-90730,2023-09-08,Binder Clips Assorted,Office Supplies,Fasteners,East,Pennsylvania,45.99,-0.39
+CA-2024-380790,CUST-10835,2024-03-08,IKEA Markus,Furniture,Chairs,West,Colorado,185.64,69.39
+CA-2024-532601,CUST-41099,2024-11-19,Canon ImageCLASS,Technology,Copiers,South,North Carolina,249.18,-50.91
+CA-2024-596753,CUST-25728,2024-12-07,Anker USB-C Hub,Technology,Accessories,West,California,52.13,6.64
+CA-2024-689214,CUST-22126,2024-12-08,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Indiana,19.04,1.0
+CA-2026-519876,CUST-78593,2026-03-14,HP LaserJet Pro Copier,Technology,Copiers,Central,Texas,82.27,25.2
+CA-2024-310387,CUST-43635,2024-02-24,Bubble Mailers padded,Office Supplies,Envelopes,Central,Indiana,8.52,3.03
+CA-2023-628425,CUST-29423,2023-02-24,Google Pixel 8,Technology,Phones,Central,Texas,251.74,35.35
+CA-2026-386100,CUST-29122,2026-02-25,Epson EcoTank Pro,Technology,Machines,South,Tennessee,585.75,200.08
+CA-2026-332931,CUST-40270,2026-04-09,Herman Miller Aeron,Furniture,Chairs,East,New York,215.08,5.62
+CA-2023-847320,CUST-26645,2023-04-05,HP LaserJet Pro Copier,Technology,Copiers,South,Tennessee,1167.88,270.92
+CA-2023-210084,CUST-51115,2023-01-25,Anker USB-C Hub,Technology,Accessories,East,New York,135.85,14.43
+CA-2026-248866,CUST-57340,2026-05-01,Autonomous ErgoChair,Furniture,Chairs,Central,Michigan,332.33,-16.78
+CA-2024-646774,CUST-34502,2024-11-14,Billy Bookcase White,Furniture,Bookcases,Central,Illinois,605.87,10.44
+CA-2025-687073,CUST-20748,2025-04-28,Watercolor Brushes,Office Supplies,Art,South,Georgia,150.7,13.91
+CA-2025-262403,CUST-72013,2025-07-31,Premium Copy Paper A4,Office Supplies,Paper,South,Georgia,20.25,3.13
+CA-2025-648387,CUST-81206,2025-02-01,Cricut Maker 3,Technology,Machines,Central,Wisconsin,28.79,3.65
+CA-2026-318168,CUST-69305,2026-03-15,Microwave Oven 900W,Office Supplies,Appliances,Central,Michigan,13.41,1.29
+CA-2023-250862,CUST-31120,2023-07-28,Canon ImageCLASS,Technology,Copiers,South,North Carolina,172.46,19.63
+CA-2024-565536,CUST-89980,2024-03-08,Solid Wood Bookcase,Furniture,Bookcases,South,Virginia,184.8,32.48
+CA-2025-745649,CUST-81387,2025-11-16,Premium Copy Paper A4,Office Supplies,Paper,East,Massachusetts,31.91,6.03
+CA-2025-378011,CUST-60577,2025-07-20,Solid Wood Bookcase,Furniture,Bookcases,Central,Michigan,321.61,49.41
+CA-2026-659650,CUST-89026,2026-05-08,Steelcase Gesture,Furniture,Chairs,West,Arizona,459.19,82.56
+CA-2023-840045,CUST-16378,2023-07-13,Solid Wood Bookcase,Furniture,Bookcases,West,Arizona,70.44,-0.64
+CA-2023-345847,CUST-34014,2023-03-09,Google Pixel 8,Technology,Phones,Central,Indiana,1191.63,280.42
+CA-2024-254062,CUST-55641,2024-03-25,Floor Rug Geometric,Furniture,Furnishings,Central,Indiana,134.84,45.45
+CA-2025-499346,CUST-60654,2025-03-19,Heavy Duty Binder,Office Supplies,Binders,East,Maryland,65.55,15.83
+CA-2026-370001,CUST-30805,2026-01-06,Apple Pencil,Technology,Accessories,South,North Carolina,62.45,8.9
+CA-2023-769250,CUST-21826,2023-03-15,Epson EcoTank Pro,Technology,Machines,West,California,392.28,11.8
+CA-2026-727763,CUST-16743,2026-06-08,Billy Bookcase White,Furniture,Bookcases,West,Washington,6.85,0.5
+CA-2024-784308,CUST-53730,2024-12-17,Picture Frame Set,Furniture,Furnishings,South,North Carolina,407.53,-63.04
+CA-2024-701383,CUST-55528,2024-09-11,Cricut Maker 3,Technology,Machines,East,Maryland,183.31,10.87
+CA-2026-741000,CUST-61024,2026-06-18,Herman Miller Aeron,Furniture,Chairs,West,Washington,104.89,25.01
+CA-2026-748002,CUST-61638,2026-02-04,Microwave Oven 900W,Office Supplies,Appliances,West,Oregon,58.13,16.67
+CA-2025-818648,CUST-20024,2025-11-02,OnePlus 12,Technology,Phones,Central,Texas,73.01,21.61
+CA-2023-399266,CUST-15666,2023-06-22,Anker USB-C Hub,Technology,Accessories,East,Maryland,341.94,170.97
+CA-2026-304354,CUST-53169,2026-02-13,Crayola Colored Pencils,Office Supplies,Art,South,Tennessee,21.71,3.32
+CA-2024-319057,CUST-78321,2024-03-16,3D Printer Ender 3,Technology,Machines,South,Florida,247.84,-5.44
+CA-2023-824886,CUST-50828,2023-11-22,Binder Clips Assorted,Office Supplies,Fasteners,East,Pennsylvania,108.5,-2.6
+CA-2024-257255,CUST-30316,2024-01-04,OnePlus 12,Technology,Phones,Central,Texas,305.91,152.96
+CA-2025-301893,CUST-78369,2025-09-25,Herman Miller Aeron,Furniture,Chairs,East,Ohio,91.56,-13.42
+CA-2024-379349,CUST-36639,2024-11-18,Industrial Metal Bookshelf,Furniture,Bookcases,West,Washington,192.79,14.34
+CA-2024-709654,CUST-97876,2024-11-11,Canon ImageCLASS,Technology,Copiers,West,Oregon,36.31,4.02
+CA-2024-307397,CUST-95178,2024-07-18,HP LaserJet Pro Copier,Technology,Copiers,Central,Texas,287.9,42.38
+CA-2026-944124,CUST-93848,2026-03-16,Steelcase Gesture,Furniture,Chairs,South,Virginia,160.91,21.62
+CA-2023-769113,CUST-11893,2023-04-07,Crayola Colored Pencils,Office Supplies,Art,Central,Texas,8.04,3.11
+CA-2026-847642,CUST-47201,2026-02-08,Brother Monochrome Copier,Technology,Copiers,South,Virginia,1622.82,320.46
+CA-2024-505377,CUST-92994,2024-12-03,Coffee Table Pine,Furniture,Tables,Central,Texas,19.17,3.88
+CA-2023-493445,CUST-11211,2023-09-15,HP LaserJet Pro Copier,Technology,Copiers,East,Massachusetts,207.97,38.24
+CA-2025-477218,CUST-68032,2025-10-04,Steelcase Gesture,Furniture,Chairs,East,Maryland,351.12,51.37
+CA-2026-429963,CUST-77838,2026-06-07,Desk Lamp LED,Furniture,Furnishings,East,Ohio,32.04,1.58
+CA-2024-373497,CUST-53162,2024-03-13,Dining Table Oak,Furniture,Tables,East,New York,529.14,61.77
+CA-2025-243988,CUST-64880,2025-02-14,Paper Clips Jumbo,Office Supplies,Fasteners,West,Colorado,49.87,24.94
+CA-2024-291758,CUST-71192,2024-08-27,Conference Table Mahogany,Furniture,Tables,Central,Indiana,57.14,6.22
+CA-2025-752694,CUST-59990,2025-06-04,Epson EcoTank Pro,Technology,Machines,West,Arizona,51.38,-5.16
+CA-2024-126572,CUST-63463,2024-08-25,Autonomous ErgoChair,Furniture,Chairs,Central,Michigan,460.66,51.31
+CA-2025-846716,CUST-76262,2025-04-19,Anker USB-C Hub,Technology,Accessories,East,Massachusetts,138.52,3.14
+CA-2026-610874,CUST-89732,2026-01-01,HP LaserJet Pro Copier,Technology,Copiers,East,Massachusetts,173.21,72.23
+CA-2026-982693,CUST-75602,2026-02-22,Keychron K2 Keyboard,Technology,Accessories,Central,Texas,34.37,14.17
+CA-2024-197382,CUST-37027,2024-10-23,iPhone 15 Pro,Technology,Phones,South,Florida,18.43,5.89
+CA-2025-964360,CUST-95469,2025-01-18,Sketchbook Medium,Office Supplies,Art,South,North Carolina,16.05,0.97
+CA-2025-946334,CUST-69840,2025-04-24,Solid Wood Bookcase,Furniture,Bookcases,Central,Michigan,71.28,5.28
+CA-2025-442776,CUST-76830,2025-06-30,Billy Bookcase White,Furniture,Bookcases,South,Georgia,97.57,-33.23
+CA-2024-154225,CUST-27482,2024-01-29,Billy Bookcase White,Furniture,Bookcases,East,Pennsylvania,212.87,-35.11
+CA-2023-128930,CUST-56118,2023-11-11,Cardstock Heavyweight,Office Supplies,Paper,Central,Wisconsin,137.44,32.71
+CA-2023-689428,CUST-20737,2023-10-03,OnePlus 12,Technology,Phones,West,Colorado,149.81,-1.17
+CA-2023-612438,CUST-44808,2023-02-05,Cricut Maker 3,Technology,Machines,South,Florida,50.37,-1.46
+CA-2026-851972,CUST-48259,2026-02-06,Epson EcoTank Pro,Technology,Machines,East,Pennsylvania,58.24,-10.49
+CA-2025-724705,CUST-68901,2025-07-02,3D Printer Ender 3,Technology,Machines,South,Tennessee,20.92,8.26
+CA-2024-826989,CUST-49390,2024-11-01,Samsung Galaxy S24,Technology,Phones,West,Colorado,467.9,93.63
+CA-2025-987278,CUST-16073,2025-05-20,Microwave Oven 900W,Office Supplies,Appliances,South,Florida,73.28,8.11
+CA-2023-189846,CUST-59692,2023-05-20,Manila Envelopes Pack,Office Supplies,Envelopes,East,Pennsylvania,31.84,9.17
+CA-2026-948964,CUST-40544,2026-04-09,Logitech MX Master 3S,Technology,Accessories,Central,Illinois,262.04,40.08
+CA-2025-776760,CUST-78045,2025-11-18,Push Pins Colorful,Office Supplies,Fasteners,East,Maryland,56.35,14.66
+CA-2023-531544,CUST-69473,2023-09-17,3D Printer Ender 3,Technology,Machines,West,Colorado,427.54,213.77
+CA-2023-129545,CUST-36028,2023-11-16,Dining Table Oak,Furniture,Tables,West,Washington,6.77,-1.62
+CA-2025-246115,CUST-67804,2025-09-24,Paper Clips Jumbo,Office Supplies,Fasteners,West,Arizona,116.36,47.87
+CA-2025-764607,CUST-47420,2025-07-15,Anker USB-C Hub,Technology,Accessories,East,Pennsylvania,131.83,29.34
+CA-2024-708952,CUST-96489,2024-10-04,Logitech MX Master 3S,Technology,Accessories,East,Pennsylvania,1598.48,13.02
+CA-2026-498635,CUST-25078,2026-03-10,Cardstock Heavyweight,Office Supplies,Paper,Central,Illinois,53.28,25.45
+CA-2023-653006,CUST-91899,2023-01-31,Floor Rug Geometric,Furniture,Furnishings,Central,Wisconsin,152.6,35.69
+CA-2024-795457,CUST-52968,2024-11-13,Anker USB-C Hub,Technology,Accessories,South,North Carolina,2236.69,862.03
+CA-2023-696093,CUST-59464,2023-01-26,Anker USB-C Hub,Technology,Accessories,West,Washington,891.64,291.14
+CA-2024-359425,CUST-69238,2024-06-06,Standing Desk Birch,Furniture,Tables,West,Arizona,9.2,1.89
+CA-2023-730458,CUST-71108,2023-10-05,Dining Table Oak,Furniture,Tables,South,Tennessee,101.42,-17.81
+CA-2026-476295,CUST-91171,2026-02-12,Canon ImageCLASS,Technology,Copiers,South,North Carolina,8.46,1.9
+CA-2024-855737,CUST-50927,2024-07-05,Rubber Bands Premium,Office Supplies,Fasteners,West,Washington,5.34,2.39
+CA-2023-730368,CUST-57058,2023-08-17,3-Ring Binder 2-inch,Office Supplies,Binders,East,Massachusetts,8.23,0.37
+CA-2023-393132,CUST-45790,2023-05-13,Brother Monochrome Copier,Technology,Copiers,Central,Michigan,488.12,113.5
+CA-2025-134160,CUST-71313,2025-01-22,Conference Table Mahogany,Furniture,Tables,East,Pennsylvania,322.08,126.35
+CA-2025-860649,CUST-23275,2025-12-31,HP LaserJet Pro Copier,Technology,Copiers,Central,Texas,990.3,283.3
+CA-2026-481382,CUST-13981,2026-01-27,Herman Miller Aeron,Furniture,Chairs,Central,Illinois,55.11,1.43
+CA-2023-266963,CUST-75614,2023-09-08,Herman Miller Aeron,Furniture,Chairs,East,Ohio,679.29,-2.08
+CA-2024-733669,CUST-17610,2024-09-23,Sticky Notes Neon,Office Supplies,Paper,South,Georgia,156.95,-2.92
+CA-2023-500010,CUST-55890,2023-05-13,Apple Pencil,Technology,Accessories,Central,Illinois,452.63,169.76
+CA-2023-547617,CUST-21560,2023-11-29,OnePlus 12,Technology,Phones,West,Colorado,309.83,82.18
+CA-2023-817997,CUST-19718,2023-05-19,HP LaserJet Pro Copier,Technology,Copiers,South,Virginia,97.67,17.9
+CA-2026-175839,CUST-64943,2026-04-30,Presentation Folder Pack,Office Supplies,Binders,East,Ohio,28.59,7.62
+CA-2026-439711,CUST-68701,2026-05-03,Epson EcoTank Pro,Technology,Machines,Central,Michigan,406.05,107.68
+CA-2026-923578,CUST-39504,2026-03-18,Industrial Metal Bookshelf,Furniture,Bookcases,South,Virginia,170.35,33.35
+CA-2025-162119,CUST-78222,2025-11-06,Wall Clock Modern,Furniture,Furnishings,West,Arizona,66.19,9.2
+CA-2023-579498,CUST-93028,2023-03-10,Brother Monochrome Copier,Technology,Copiers,Central,Texas,313.51,71.48
+CA-2024-660733,CUST-65718,2024-11-03,Autonomous ErgoChair,Furniture,Chairs,West,Arizona,16.4,2.95
+CA-2025-921939,CUST-35988,2025-05-20,iPhone 15 Pro,Technology,Phones,West,Oregon,34.98,8.4
+CA-2025-886885,CUST-84777,2025-07-16,Google Pixel 8,Technology,Phones,Central,Illinois,80.68,21.97
+CA-2025-872466,CUST-96840,2025-07-09,Microwave Oven 900W,Office Supplies,Appliances,Central,Texas,49.36,15.91
+CA-2026-375381,CUST-14792,2026-05-13,Compact Refrigerator,Office Supplies,Appliances,West,Oregon,32.31,1.62
+CA-2023-417455,CUST-67851,2023-07-31,Picture Frame Set,Furniture,Furnishings,Central,Wisconsin,5.16,0.61
+CA-2025-721535,CUST-24591,2025-07-30,Picture Frame Set,Furniture,Furnishings,South,Virginia,39.5,-1.83
+CA-2024-254591,CUST-90378,2024-11-30,Billy Bookcase White,Furniture,Bookcases,South,Tennessee,72.19,7.44
+CA-2023-113265,CUST-99367,2023-06-18,Anker USB-C Hub,Technology,Accessories,West,Washington,23.21,3.39
+CA-2024-439606,CUST-97580,2024-04-18,Anker USB-C Hub,Technology,Accessories,Central,Illinois,679.15,-68.58
+CA-2024-460400,CUST-37626,2024-02-05,Standing Desk Birch,Furniture,Tables,West,Colorado,403.47,98.84
+CA-2024-156096,CUST-69117,2024-03-21,3-Ring Binder 2-inch,Office Supplies,Binders,Central,Wisconsin,63.27,3.07
+CA-2024-451863,CUST-51954,2024-12-31,Apple Pencil,Technology,Accessories,Central,Indiana,1537.75,244.58
+CA-2026-464765,CUST-35020,2026-05-26,Notebook Spiral,Office Supplies,Paper,South,North Carolina,40.35,7.76
+CA-2024-259472,CUST-12850,2024-06-07,Anker USB-C Hub,Technology,Accessories,West,California,86.55,-8.87
+CA-2025-760284,CUST-38251,2025-12-25,Industrial Metal Bookshelf,Furniture,Bookcases,South,Florida,325.73,15.12
+CA-2026-993164,CUST-20702,2026-01-29,Steelcase Gesture,Furniture,Chairs,East,Pennsylvania,145.04,-8.46
+CA-2023-573319,CUST-59037,2023-09-30,Picture Frame Set,Furniture,Furnishings,Central,Michigan,123.01,-12.85
+CA-2023-731121,CUST-66947,2023-10-15,Standing Desk Birch,Furniture,Tables,East,New York,273.9,-4.96
+CA-2023-473994,CUST-62066,2023-02-22,Acrylic Paint Set,Office Supplies,Art,Central,Indiana,63.51,11.19
+CA-2024-129086,CUST-92315,2024-02-07,Manila Envelopes Pack,Office Supplies,Envelopes,South,Tennessee,39.91,4.56
+CA-2025-939446,CUST-62389,2025-03-28,Presentation Folder Pack,Office Supplies,Binders,South,Virginia,25.2,-0.22
+CA-2023-469802,CUST-85164,2023-05-03,Anker USB-C Hub,Technology,Accessories,East,Pennsylvania,16.14,5.06
+CA-2025-490555,CUST-56157,2025-07-23,Premium Copy Paper A4,Office Supplies,Paper,East,Ohio,249.37,-6.47
+CA-2024-408372,CUST-93029,2024-07-13,Billy Bookcase White,Furniture,Bookcases,Central,Indiana,20.91,-4.27
+CA-2023-493145,CUST-39332,2023-04-11,IKEA Markus,Furniture,Chairs,South,Florida,19.01,0.13
+CA-2024-363685,CUST-36849,2024-07-08,Dining Table Oak,Furniture,Tables,West,Arizona,216.97,58.4
+CA-2025-466047,CUST-28256,2025-07-13,Push Pins Colorful,Office Supplies,Fasteners,East,Massachusetts,17.41,-0.27
+CA-2025-652197,CUST-24706,2025-10-02,3-Ring Binder 2-inch,Office Supplies,Binders,West,Washington,400.99,64.01
+CA-2025-540924,CUST-36739,2025-01-15,Wall Clock Modern,Furniture,Furnishings,East,Pennsylvania,393.91,88.59
+CA-2024-217996,CUST-94085,2024-09-09,3D Printer Ender 3,Technology,Machines,West,Oregon,49.3,12.19
+CA-2023-846777,CUST-14782,2023-03-04,Samsung Galaxy S24,Technology,Phones,South,Virginia,667.97,-62.42
+CA-2024-240749,CUST-70926,2024-04-20,Keychron K2 Keyboard,Technology,Accessories,West,Washington,611.89,281.33
+CA-2024-882046,CUST-23163,2024-10-29,Heavy Duty Binder,Office Supplies,Binders,West,Colorado,51.5,-9.53
+CA-2025-394358,CUST-10834,2025-05-21,Bubble Mailers padded,Office Supplies,Envelopes,East,Pennsylvania,40.35,12.34
+CA-2023-268751,CUST-68408,2023-07-29,Logitech MX Master 3S,Technology,Accessories,West,Arizona,330.53,120.91
+CA-2025-574650,CUST-68703,2025-11-28,Solid Wood Bookcase,Furniture,Bookcases,South,Virginia,277.28,-9.08
+CA-2023-760501,CUST-32301,2023-12-05,Manila Envelopes Pack,Office Supplies,Envelopes,East,Ohio,110.0,27.26
+CA-2024-234917,CUST-38469,2024-12-16,Watercolor Brushes,Office Supplies,Art,West,Oregon,132.27,48.36
+CA-2023-903051,CUST-76273,2023-08-13,Self-Seal Mailing Envelopes,Office Supplies,Envelopes,West,California,88.51,33.11
+CA-2026-992007,CUST-31630,2026-06-13,Brother Monochrome Copier,Technology,Copiers,Central,Michigan,198.77,3.66
+CA-2025-377255,CUST-86669,2025-02-23,Keychron K2 Keyboard,Technology,Accessories,Central,Michigan,1339.53,252.83
+CA-2024-865523,CUST-56389,2024-03-12,Autonomous ErgoChair,Furniture,Chairs,West,Washington,98.31,-0.3
+CA-2023-281549,CUST-80192,2023-08-23,Floor Rug Geometric,Furniture,Furnishings,Central,Michigan,8.4,2.62
+CA-2026-942000,CUST-28302,2026-01-07,HP LaserJet Pro Copier,Technology,Copiers,West,Oregon,135.03,33.23
+CA-2024-164340,CUST-93641,2024-02-09,Keychron K2 Keyboard,Technology,Accessories,West,Colorado,289.94,78.45
+CA-2023-309720,CUST-19491,2023-03-06,Push Pins Colorful,Office Supplies,Fasteners,East,New York,140.48,-1.12
+CA-2025-703146,CUST-40936,2025-07-09,Coffee Table Pine,Furniture,Tables,South,Tennessee,74.64,-28.57
+CA-2025-201735,CUST-27207,2025-09-25,Cricut Maker 3,Technology,Machines,West,Oregon,139.91,49.24
+CA-2026-329171,CUST-45670,2026-06-12,Paper Clips Jumbo,Office Supplies,Fasteners,South,Florida,19.05,-1.51
+CA-2023-277254,CUST-23306,2023-07-11,Acrylic Paint Set,Office Supplies,Art,South,Georgia,31.64,8.1
+CA-2023-785388,CUST-51964,2023-12-20,Compact Refrigerator,Office Supplies,Appliances,West,Arizona,17.36,2.39
+CA-2023-587707,CUST-84353,2023-05-21,Notebook Spiral,Office Supplies,Paper,East,Massachusetts,48.01,10.91
+CA-2025-576492,CUST-68008,2025-05-08,Manila Envelopes Pack,Office Supplies,Envelopes,South,Tennessee,159.7,-11.68
+CA-2023-928804,CUST-70213,2023-12-29,3D Printer Ender 3,Technology,Machines,Central,Michigan,118.29,59.14
+CA-2023-889622,CUST-62772,2023-03-03,Conference Table Mahogany,Furniture,Tables,West,California,329.82,-24.28
+CA-2023-443243,CUST-59961,2023-12-03,Dining Table Oak,Furniture,Tables,West,Arizona,491.14,89.01
+CA-2026-155823,CUST-48931,2026-02-11,3D Printer Ender 3,Technology,Machines,West,Oregon,147.24,41.7
+CA-2024-644075,CUST-95435,2024-09-03,Sticky Notes Neon,Office Supplies,Paper,Central,Texas,102.69,29.07
+CA-2025-661669,CUST-92143,2025-09-01,Wall Clock Modern,Furniture,Furnishings,West,Colorado,107.5,22.1
+CA-2023-743012,CUST-60493,2023-07-01,Picture Frame Set,Furniture,Furnishings,Central,Texas,54.88,-6.12
+CA-2025-919781,CUST-19716,2025-04-23,Compact Refrigerator,Office Supplies,Appliances,South,Florida,143.98,43.62
+CA-2023-224693,CUST-17213,2023-08-09,Air Purifier HEPA,Office Supplies,Appliances,East,Maryland,39.86,5.86
+CA-2025-236225,CUST-44731,2025-12-13,Industrial Metal Bookshelf,Furniture,Bookcases,Central,Illinois,324.34,45.7
+CA-2025-713587,CUST-34485,2025-10-15,IKEA Markus,Furniture,Chairs,West,Arizona,541.81,25.19
+CA-2024-798412,CUST-13985,2024-05-26,Sketchbook Medium,Office Supplies,Art,South,Florida,70.43,18.93
+CA-2023-934938,CUST-27221,2023-09-24,Anker USB-C Hub,Technology,Accessories,East,Massachusetts,296.2,69.18
+CA-2026-405745,CUST-96338,2026-05-21,Brother Monochrome Copier,Technology,Copiers,South,Georgia,276.23,9.81
+CA-2024-514384,CUST-52495,2024-11-13,Epson EcoTank Pro,Technology,Machines,East,New York,201.85,79.26
+CA-2023-722825,CUST-45454,2023-11-07,Samsung Galaxy S24,Technology,Phones,South,Florida,1644.03,320.84
+CA-2023-311979,CUST-78936,2023-01-11,Coffee Maker Espresso,Office Supplies,Appliances,West,California,19.74,5.15
+CA-2023-467968,CUST-60255,2023-12-10,Solid Wood Bookcase,Furniture,Bookcases,South,Tennessee,71.29,0.74
+CA-2025-581153,CUST-66862,2025-06-27,Sticky Notes Neon,Office Supplies,Paper,East,Massachusetts,15.71,0.73
+CA-2025-782923,CUST-25764,2025-03-15,Push Pins Colorful,Office Supplies,Fasteners,Central,Wisconsin,41.4,10.21
+CA-2024-865893,CUST-74471,2024-12-15,Anker USB-C Hub,Technology,Accessories,Central,Michigan,447.64,90.25
+CA-2023-251152,CUST-27733,2023-11-20,iPhone 15 Pro,Technology,Phones,West,California,41.02,16.33
+CA-2026-520466,CUST-51152,2026-02-24,Conference Table Mahogany,Furniture,Tables,West,Colorado,106.66,53.33
+CA-2025-184433,CUST-42450,2025-12-11,Anker USB-C Hub,Technology,Accessories,South,Florida,26.76,9.02
+CA-2024-516740,CUST-78515,2024-08-27,Herman Miller Aeron,Furniture,Chairs,East,Maryland,55.78,-8.75
+CA-2025-346476,CUST-97700,2025-10-26,Autonomous ErgoChair,Furniture,Chairs,Central,Texas,211.45,20.32
+CA-2024-763779,CUST-90141,2024-04-12,Samsung Galaxy S24,Technology,Phones,West,Arizona,193.79,42.83
+CA-2023-107233,CUST-57456,2023-10-02,Push Pins Colorful,Office Supplies,Fasteners,East,Pennsylvania,30.9,9.1
+CA-2023-622116,CUST-74800,2023-04-23,Autonomous ErgoChair,Furniture,Chairs,Central,Michigan,126.13,16.2
+CA-2024-405163,CUST-49373,2024-12-03,Canon ImageCLASS,Technology,Copiers,West,California,325.02,107.78
+CA-2024-595288,CUST-47066,2024-03-23,Keychron K2 Keyboard,Technology,Accessories,East,Ohio,687.81,172.56
+CA-2025-438074,CUST-26406,2025-06-05,Herman Miller Aeron,Furniture,Chairs,Central,Illinois,31.85,2.99
+CA-2025-988407,CUST-31352,2025-11-11,Google Pixel 8,Technology,Phones,East,Ohio,150.94,75.47
+CA-2025-105435,CUST-95184,2025-01-08,Floor Rug Geometric,Furniture,Furnishings,West,Colorado,111.03,12.46
+CA-2025-629862,CUST-26934,2025-10-06,Coffee Maker Espresso,Office Supplies,Appliances,South,Florida,124.53,62.26
+CA-2024-136069,CUST-45201,2024-11-30,Acrylic Paint Set,Office Supplies,Art,South,North Carolina,9.27,-0.09
+CA-2026-703756,CUST-75294,2026-05-11,Dining Table Oak,Furniture,Tables,Central,Texas,145.94,-0.05
+CA-2024-581363,CUST-97911,2024-08-22,Industrial Metal Bookshelf,Furniture,Bookcases,South,Georgia,331.79,-64.77
+CA-2025-589847,CUST-88113,2025-12-24,HP LaserJet Pro Copier,Technology,Copiers,Central,Indiana,640.79,88.07
+CA-2024-635633,CUST-95395,2024-01-31,Keychron K2 Keyboard,Technology,Accessories,Central,Indiana,118.13,21.55
+CA-2023-605694,CUST-45771,2023-01-24,Manila Envelopes Pack,Office Supplies,Envelopes,West,Washington,7.0,1.77
+CA-2024-282058,CUST-35762,2024-08-09,iPhone 15 Pro,Technology,Phones,East,Pennsylvania,178.37,27.51
+CA-2025-617257,CUST-65283,2025-07-27,Heavy Duty Binder,Office Supplies,Binders,West,Washington,78.15,34.49
+CA-2024-873372,CUST-10055,2024-01-20,Conference Table Mahogany,Furniture,Tables,Central,Indiana,69.44,8.67
+CA-2025-496848,CUST-26493,2025-03-12,OnePlus 12,Technology,Phones,Central,Michigan,438.25,156.72
+CA-2024-509898,CUST-92793,2024-12-16,Cardstock Heavyweight,Office Supplies,Paper,South,Tennessee,45.26,-1.2
+CA-2024-910194,CUST-10486,2024-01-06,Herman Miller Aeron,Furniture,Chairs,Central,Texas,391.13,22.05
+CA-2025-787635,CUST-59390,2025-03-08,Billy Bookcase White,Furniture,Bookcases,East,Massachusetts,278.0,-3.32
+CA-2025-201551,CUST-67175,2025-02-03,Anker USB-C Hub,Technology,Accessories,Central,Indiana,412.88,124.05
+CA-2025-315432,CUST-22884,2025-12-01,Crayola Colored Pencils,Office Supplies,Art,Central,Illinois,10.46,2.82
+CA-2023-914294,CUST-82232,2023-11-16,Compact Refrigerator,Office Supplies,Appliances,South,Florida,13.8,1.89
+CA-2025-450002,CUST-63472,2025-06-11,Autonomous ErgoChair,Furniture,Chairs,East,New York,201.33,40.92
+CA-2023-580675,CUST-28595,2023-01-14,HP LaserJet Pro Copier,Technology,Copiers,West,Oregon,821.17,24.89
+CA-2025-737031,CUST-76354,2025-09-02,Standing Desk Birch,Furniture,Tables,Central,Texas,226.77,28.8
+CA-2025-975584,CUST-71716,2025-02-07,Coffee Maker Espresso,Office Supplies,Appliances,Central,Indiana,98.48,17.74
+CA-2023-259413,CUST-52249,2023-11-13,iPhone 15 Pro,Technology,Phones,Central,Illinois,122.57,52.61
+CA-2024-984080,CUST-91552,2024-09-12,Steelcase Gesture,Furniture,Chairs,South,Virginia,66.92,-25.85
+CA-2025-737384,CUST-93536,2025-03-09,Desk Lamp LED,Furniture,Furnishings,Central,Michigan,54.51,-9.98
+CA-2024-394366,CUST-50477,2024-12-10,Canon ImageCLASS,Technology,Copiers,East,Maryland,27.51,9.67
+CA-2023-303990,CUST-51941,2023-09-22,Dining Table Oak,Furniture,Tables,East,Pennsylvania,421.64,25.59
+CA-2026-390507,CUST-70303,2026-02-03,OnePlus 12,Technology,Phones,West,Washington,42.29,15.72
+CA-2026-256810,CUST-64437,2026-02-11,Canon ImageCLASS,Technology,Copiers,East,New York,513.04,115.01
+CA-2026-185192,CUST-85677,2026-03-23,Solid Wood Bookcase,Furniture,Bookcases,East,Massachusetts,182.07,43.98
+CA-2023-274588,CUST-28706,2023-05-25,Cardstock Heavyweight,Office Supplies,Paper,South,Tennessee,49.49,4.79
+CA-2026-531231,CUST-54135,2026-03-22,Heavy Duty Binder,Office Supplies,Binders,Central,Michigan,80.83,1.88
+CA-2025-145784,CUST-82204,2025-12-06,Coffee Table Pine,Furniture,Tables,Central,Indiana,81.62,-5.11
+CA-2024-650996,CUST-94766,2024-11-11,Coffee Table Pine,Furniture,Tables,South,Florida,167.66,6.57
+CA-2024-716552,CUST-32948,2024-01-13,Samsung Galaxy S24,Technology,Phones,South,Virginia,255.56,-5.24
+CA-2023-489962,CUST-17086,2023-05-18,Coffee Table Pine,Furniture,Tables,Central,Illinois,45.45,-22.85
+CA-2023-116304,CUST-45233,2023-01-20,Industrial Metal Bookshelf,Furniture,Bookcases,West,Washington,409.29,77.78
+CA-2026-731036,CUST-54990,2026-05-18,Coffee Maker Espresso,Office Supplies,Appliances,South,North Carolina,18.7,4.21
+CA-2024-336436,CUST-77421,2024-12-02,3D Printer Ender 3,Technology,Machines,West,Colorado,423.17,120.48
+CA-2026-991907,CUST-16791,2026-02-07,Coffee Maker Espresso,Office Supplies,Appliances,East,Massachusetts,95.45,19.4
+CA-2024-581930,CUST-66131,2024-05-22,iPhone 15 Pro,Technology,Phones,West,Arizona,137.4,23.39
+CA-2025-352313,CUST-84495,2025-03-26,Standing Desk Birch,Furniture,Tables,South,Virginia,48.27,1.73
+CA-2026-790753,CUST-43012,2026-01-05,Conference Table Mahogany,Furniture,Tables,Central,Texas,229.72,-15.21
+CA-2023-416783,CUST-27276,2023-05-22,Premium Copy Paper A4,Office Supplies,Paper,West,Oregon,60.84,12.62
+CA-2025-367531,CUST-19852,2025-10-23,Wall Clock Modern,Furniture,Furnishings,Central,Illinois,308.19,4.26
+CA-2025-486354,CUST-10560,2025-09-29,Steelcase Gesture,Furniture,Chairs,South,Virginia,261.88,-20.44
+CA-2024-187502,CUST-45645,2024-08-28,Microwave Oven 900W,Office Supplies,Appliances,East,New York,40.6,3.28
+CA-2023-527709,CUST-74222,2023-06-06,Cricut Maker 3,Technology,Machines,West,California,451.24,225.62
+CA-2024-122369,CUST-89944,2024-07-11,Canon ImageCLASS,Technology,Copiers,South,Tennessee,259.48,60.4
+CA-2023-644748,CUST-15295,2023-09-29,Canon ImageCLASS,Technology,Copiers,East,Ohio,39.82,9.73
+CA-2023-927401,CUST-82258,2023-12-04,Brother Monochrome Copier,Technology,Copiers,Central,Michigan,438.12,153.84
+CA-2025-317220,CUST-44416,2025-08-28,Crayola Colored Pencils,Office Supplies,Art,West,Oregon,24.12,-1.35
+CA-2023-670534,CUST-79672,2023-11-25,Dining Table Oak,Furniture,Tables,South,North Carolina,506.82,98.48
+CA-2023-817723,CUST-75548,2023-01-09,Watercolor Brushes,Office Supplies,Art,West,California,41.0,9.56
+CA-2024-228938,CUST-46558,2024-09-12,Desk Lamp LED,Furniture,Furnishings,West,Arizona,7.37,2.09
+CA-2023-584716,CUST-37624,2023-05-28,Microwave Oven 900W,Office Supplies,Appliances,East,Massachusetts,12.51,0.94
+CA-2025-812392,CUST-97359,2025-10-31,Conference Table Mahogany,Furniture,Tables,South,Florida,296.36,49.15
+CA-2024-194488,CUST-85008,2024-11-19,Manila Envelopes Pack,Office Supplies,Envelopes,Central,Michigan,33.38,3.33
+CA-2023-298017,CUST-67632,2023-05-24,Standing Desk Birch,Furniture,Tables,East,Pennsylvania,159.1,-41.86
+CA-2026-350319,CUST-11195,2026-05-15,IKEA Markus,Furniture,Chairs,South,North Carolina,127.8,9.64
+CA-2024-375419,CUST-62551,2024-05-11,Microwave Oven 900W,Office Supplies,Appliances,South,Tennessee,36.53,4.92
+CA-2023-186590,CUST-12431,2023-11-20,Samsung Galaxy S24,Technology,Phones,Central,Indiana,231.79,115.9
+CA-2024-897271,CUST-48636,2024-10-25,Sketchbook Medium,Office Supplies,Art,South,Georgia,9.04,0.98
+CA-2025-722207,CUST-35651,2025-08-13,Google Pixel 8,Technology,Phones,West,Washington,364.07,106.93
+CA-2026-903789,CUST-47067,2026-02-01,Heavy Duty Binder,Office Supplies,Binders,West,Washington,54.09,5.42
+CA-2023-581947,CUST-96310,2023-09-10,Autonomous ErgoChair,Furniture,Chairs,South,Georgia,296.51,37.95
+CA-2023-770088,CUST-93694,2023-11-28,3-Ring Binder 2-inch,Office Supplies,Binders,West,Oregon,10.88,0.62
+CA-2024-363389,CUST-32745,2024-03-17,Cricut Maker 3,Technology,Machines,Central,Illinois,161.92,33.15
+CA-2025-417798,CUST-83757,2025-04-17,Binder Clips Assorted,Office Supplies,Fasteners,South,Florida,14.9,2.7
+CA-2025-448857,CUST-17436,2025-06-23,Crayola Colored Pencils,Office Supplies,Art,Central,Indiana,7.14,2.94
+CA-2026-276637,CUST-27157,2026-01-24,iPhone 15 Pro,Technology,Phones,West,Arizona,431.41,205.91
+CA-2024-460565,CUST-53988,2024-02-16,Wall Clock Modern,Furniture,Furnishings,East,Ohio,187.62,-55.79
+CA-2025-756225,CUST-22755,2025-05-18,Conference Table Mahogany,Furniture,Tables,West,Oregon,305.42,-6.56
+CA-2026-994586,CUST-12015,2026-01-01,3D Printer Ender 3,Technology,Machines,East,Massachusetts,134.15,55.93
+CA-2023-605111,CUST-82914,2023-05-02,IKEA Markus,Furniture,Chairs,East,Pennsylvania,64.1,-3.1
+CA-2025-109795,CUST-64544,2025-07-13,Google Pixel 8,Technology,Phones,Central,Indiana,108.56,27.08
+CA-2026-653669,CUST-65728,2026-01-17,Wall Clock Modern,Furniture,Furnishings,South,Florida,359.11,66.14
+CA-2023-959375,CUST-97228,2023-09-14,Acrylic Paint Set,Office Supplies,Art,West,California,16.44,-2.59
+CA-2024-180857,CUST-71358,2024-07-21,Heavy Duty Binder,Office Supplies,Binders,East,New York,127.31,13.35
+CA-2025-444950,CUST-19476,2025-03-08,Acrylic Paint Set,Office Supplies,Art,West,Washington,134.35,13.59
+CA-2023-484784,CUST-57928,2023-11-21,Acrylic Paint Set,Office Supplies,Art,Central,Wisconsin,11.35,2.1
+CA-2023-381941,CUST-66921,2023-12-31,Samsung Galaxy S24,Technology,Phones,West,California,1183.23,225.75
+CA-2023-859112,CUST-95001,2023-05-04,Coffee Maker Espresso,Office Supplies,Appliances,Central,Michigan,58.57,8.52
+CA-2025-179064,CUST-35017,2025-02-20,Heavy Duty Binder,Office Supplies,Binders,West,Arizona,39.16,11.91
+CA-2025-891043,CUST-32391,2025-12-24,iPhone 15 Pro,Technology,Phones,South,Georgia,1065.33,310.7
+CA-2024-829274,CUST-72537,2024-01-30,IKEA Markus,Furniture,Chairs,West,Washington,323.57,-78.39
+CA-2023-235797,CUST-71824,2023-03-11,Steelcase Gesture,Furniture,Chairs,West,Oregon,58.14,-0.96
+CA-2025-452895,CUST-81667,2025-05-31,3-Ring Binder 2-inch,Office Supplies,Binders,East,Massachusetts,10.92,2.05
+CA-2023-343950,CUST-67920,2023-03-01,Logitech MX Master 3S,Technology,Accessories,East,Maryland,65.56,7.8
+CA-2023-803645,CUST-44600,2023-12-23,OnePlus 12,Technology,Phones,West,California,1190.89,367.07
+CA-2025-287840,CUST-97640,2025-06-20,OnePlus 12,Technology,Phones,East,Pennsylvania,909.55,323.69
+CA-2023-792657,CUST-77996,2023-11-12,IKEA Markus,Furniture,Chairs,Central,Indiana,91.65,29.11
+CA-2025-244938,CUST-82322,2025-07-04,Apple Pencil,Technology,Accessories,Central,Texas,70.69,1.48
+CA-2026-890944,CUST-70686,2026-04-08,Microwave Oven 900W,Office Supplies,Appliances,West,Oregon,166.92,-3.08
+CA-2023-744821,CUST-21351,2023-03-29,Logitech MX Master 3S,Technology,Accessories,West,Oregon,98.2,26.25
+CA-2024-999145,CUST-22501,2024-06-22,Anker USB-C Hub,Technology,Accessories,South,Virginia,345.85,104.23
+CA-2023-883540,CUST-22002,2023-08-25,Logitech MX Master 3S,Technology,Accessories,East,Massachusetts,130.06,20.28
+CA-2024-427370,CUST-83374,2024-04-17,Dining Table Oak,Furniture,Tables,South,Florida,184.66,-1.72
+CA-2023-277946,CUST-44346,2023-04-27,Logitech MX Master 3S,Technology,Accessories,South,Virginia,75.78,-6.5
+CA-2025-431922,CUST-30344,2025-07-10,Herman Miller Aeron,Furniture,Chairs,East,Pennsylvania,71.71,14.63
+CA-2024-507124,CUST-43957,2024-11-10,iPhone 15 Pro,Technology,Phones,South,Tennessee,49.69,-0.46
+CA-2024-856349,CUST-48314,2024-01-14,Herman Miller Aeron,Furniture,Chairs,Central,Michigan,117.66,23.29
+CA-2025-663765,CUST-69372,2025-09-05,Standing Desk Birch,Furniture,Tables,South,Georgia,295.74,-44.62
+CA-2026-153024,CUST-89390,2026-05-11,Wall Clock Modern,Furniture,Furnishings,Central,Wisconsin,55.58,16.61
+CA-2024-161562,CUST-48736,2024-09-10,Dining Table Oak,Furniture,Tables,Central,Illinois,21.96,9.23
+CA-2024-710326,CUST-15899,2024-08-29,Conference Table Mahogany,Furniture,Tables,Central,Michigan,66.1,7.57
+CA-2026-767958,CUST-16083,2026-01-18,Epson EcoTank Pro,Technology,Machines,Central,Michigan,270.63,1.25
+CA-2026-250594,CUST-63171,2026-04-09,OnePlus 12,Technology,Phones,West,Washington,388.11,-7.45
+CA-2023-296211,CUST-24260,2023-01-28,Bubble Mailers padded,Office Supplies,Envelopes,Central,Indiana,21.67,2.32
+CA-2025-576182,CUST-65479,2025-09-28,Autonomous ErgoChair,Furniture,Chairs,West,Oregon,146.26,17.34
+CA-2025-411896,CUST-67124,2025-12-26,Epson EcoTank Pro,Technology,Machines,Central,Texas,602.25,170.74
